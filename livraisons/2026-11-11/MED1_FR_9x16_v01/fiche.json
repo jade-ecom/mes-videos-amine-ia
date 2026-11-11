@@ -1,0 +1,67 @@
+{
+ "ref": "MED1",
+ "langue_source": "sv",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [],
+ "mix": {
+  "fond": "aucun"
+ },
+ "rendu": {
+  "crf": 17,
+  "zones_vmake": "auto",
+  "textes": [
+   {
+    "images": [
+     0,
+     293
+    ],
+    "lignes": [
+     "à celui qui a dit de se doucher avec",
+     "une lampe de douche quand on est en surcharge",
+     "-merci, je te dois la vie"
+    ],
+    "y": 581,
+    "taille": 25,
+    "graisse": 600,
+    "interligne": 1.38,
+    "largeur": 560,
+    "decalage": [
+     0,
+     1
+    ],
+    "flou": 1.5,
+    "trait": 0
+   }
+  ]
+ },
+ "marque": "",
+ "produit": "lampe de douche (marque de la source non visible)",
+ "site": "",
+ "offre": "aucune dans la vidéo",
+ "controle": {
+  "sans_voix": [
+   "à celui qui a dit de se doucher avec",
+   "une lampe de douche quand on est en surcharge",
+   "-merci, je te dois la vie"
+  ]
+ },
+ "notes": "Étape 0 : pas de voix parlée, musique avec voix chantée suédoise. Un texte fixe 3 lignes blanc sans fond (images 0-293) -> type 2, Vmake (12,4 s, ~25 crédits). Aucun logo/prix/site. Demande élève : garder seulement la voix de la musique (instruments retirés, mix.wav = vocals.wav), miroir horizontal images 0-239 (10 s) appliqué à src.mp4 et clean_vmake.mp4 (originaux *_sans_miroir), zones Vmake miroir, texte français non inversé.",
+ "bilan": {
+  "duree_source_s": 12.37,
+  "vmake_s": 12.37,
+  "caracteres_elevenlabs": 0,
+  "replicate_appels": 1,
+  "reprises": 0,
+  "problemes": [
+   "Source fournie en page HTML enregistrée de la bibliothèque Meta (25 vidéos) : vidéo de l'annonce retrouvée par son ID, version HD téléchargée",
+   "Replicate 402 (pas de crédit) : élève a rechargé",
+   "Vmake 'invalid or inactive AK/SK' : MT_AK collée avec un texte en trop après un espace ; relancé avec la première partie seulement, l'élève doit corriger la variable",
+   "Demande hors méthode : instruments retirés (voix chantée gardée, pas de voix off) et miroir des 10 premières secondes"
+  ]
+ }
+}
