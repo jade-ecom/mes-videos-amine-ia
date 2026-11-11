@@ -1,0 +1,25 @@
+{
+ "ref": "MED3",
+ "type": "image",
+ "langue_source": "fi",
+ "langue_cible": "fr",
+ "format": "1080x1350 (source 483x600 agrandie)",
+ "textes": [
+  "Pour toi qui prends déjà ta douche",
+  "lumières éteintes",
+  "Désormais, l'obscurité est chaude, pas noire."
+ ],
+ "notes": "Image (pas une vidéo) collée dans le chat, basse définition. Texte effacé par Vmake via une vidéo fixe de 2 s, image inversée en miroir, texte refait (Liberation Serif + Inter, aligné à gauche, même place).",
+ "bilan": {
+  "duree_source_s": 0,
+  "vmake_s": 2,
+  "caracteres_elevenlabs": 0,
+  "replicate_appels": 0,
+  "reprises": 0,
+  "problemes": [
+   "Image et pas vidéo : Vmake passé sur une vidéo fixe de 2 s",
+   "Source en 483x600 seulement : agrandie à 1080x1350, un peu floue",
+   "MT_AK toujours collée avec un texte en trop"
+  ]
+ }
+}

@@ -1,0 +1,1 @@
+Contrôle visuel (image) : texte d'origine effacé, image en miroir, 3 lignes françaises à la place des lignes d'origine, sans débordement. Format 4:5 1080x1350.
