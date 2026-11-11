@@ -1,0 +1,68 @@
+{
+ "ref": "MED2",
+ "langue_source": "pl",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [],
+ "mix": {
+  "fond": "aucun"
+ },
+ "rendu": {
+  "crf": 17,
+  "zones_vmake": "auto",
+  "textes": [
+   {
+    "images": [
+     0,
+     175
+    ],
+    "lignes": [
+     "J'aimerais que tout le monde sache",
+     "qu'une douche à la lumière tamisée",
+     "apaise ton système nerveux"
+    ],
+    "y": 593,
+    "taille": 25,
+    "graisse": 600,
+    "police": "serif",
+    "interligne": 1.35,
+    "largeur": 470,
+    "decalage": [
+     0,
+     1
+    ],
+    "flou": 1.5,
+    "trait": 0
+   }
+  ]
+ },
+ "marque": "",
+ "produit": "veilleuse / lampe de douche (marque de la source non visible)",
+ "site": "",
+ "offre": "aucune dans la vidéo",
+ "controle": {
+  "sans_voix": [
+   "J'aimerais que tout le monde sache",
+   "qu'une douche à la lumière tamisée",
+   "apaise ton système nerveux"
+  ]
+ },
+ "notes": "Même demande que MED1 : pas de voix parlée, musique avec voix chantée gardée seule (mix.wav = vocals.wav). Texte fixe 3 lignes blanc à empattements sans fond (images 0-175) -> Vmake (7,5 s). Aucun logo/prix/site. Miroir horizontal sur toute la vidéo (src et clean_vmake, originaux *_sans_miroir), zones Vmake miroir, texte français non inversé.",
+ "bilan": {
+  "duree_source_s": 7.47,
+  "vmake_s": 7.47,
+  "caracteres_elevenlabs": 0,
+  "replicate_appels": 2,
+  "reprises": 0,
+  "problemes": [
+   "Source en page HTML de la bibliothèque Meta : vidéo retrouvée par l'ID de l'annonce",
+   "Replicate 502 passager au 1er essai",
+   "MT_AK toujours collée avec un texte en trop : première partie utilisée",
+   "Demande hors méthode : instruments retirés (voix chantée gardée), miroir de toute la vidéo"
+  ]
+ }
+}
