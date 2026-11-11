@@ -50,18 +50,18 @@
    "-merci, je te dois la vie"
   ]
  },
- "notes": "Étape 0 : pas de voix parlée, musique avec voix chantée suédoise. Un texte fixe 3 lignes blanc sans fond (images 0-293) -> type 2, Vmake (12,4 s, ~25 crédits). Aucun logo/prix/site. Demande élève : garder seulement la voix de la musique (instruments retirés, mix.wav = vocals.wav), miroir horizontal images 0-239 (10 s) appliqué à src.mp4 et clean_vmake.mp4 (originaux *_sans_miroir), zones Vmake miroir, texte français non inversé.",
+ "notes": "Étape 0 : pas de voix parlée, musique avec voix chantée suédoise. Un texte fixe 3 lignes blanc sans fond (images 0-293) -> type 2, Vmake (12,4 s, ~25 crédits). Aucun logo/prix/site. Demande élève : garder seulement la voix de la musique (instruments retirés, mix.wav = vocals.wav), miroir horizontal sur toute la vidéo (v1 : 10 s, saut en plein plan à 10 s jugé bizarre) appliqué à src.mp4 et clean_vmake.mp4 (originaux *_sans_miroir), zones Vmake miroir, texte français non inversé.",
  "bilan": {
   "duree_source_s": 12.37,
   "vmake_s": 12.37,
   "caracteres_elevenlabs": 0,
   "replicate_appels": 1,
-  "reprises": 0,
+  "reprises": 1,
   "problemes": [
    "Source fournie en page HTML enregistrée de la bibliothèque Meta (25 vidéos) : vidéo de l'annonce retrouvée par son ID, version HD téléchargée",
    "Replicate 402 (pas de crédit) : élève a rechargé",
    "Vmake 'invalid or inactive AK/SK' : MT_AK collée avec un texte en trop après un espace ; relancé avec la première partie seulement, l'élève doit corriger la variable",
-   "Demande hors méthode : instruments retirés (voix chantée gardée, pas de voix off) et miroir des 10 premières secondes"
+   "Demande hors méthode : instruments retirés (voix chantée gardée, pas de voix off) et miroir ; miroir limité à 10 s = saut en plein plan, refait sur toute la vidéo"
   ]
  }
 }
