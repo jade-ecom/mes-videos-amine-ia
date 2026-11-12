@@ -1,0 +1,1 @@
+{"ref":"VEILLEUSE3","demande":"'Pub testing 3.jpg' (Drive/Veilleuse) dans l'autre format","bilan":{"duree_source_s":0,"vmake_s":0,"caracteres_elevenlabs":0,"replicate_appels":0,"reprises":0,"problemes":["source = image 4:5 (1080x1350) -> 9:16 (1080x1920) par fond flou (recadrage impossible sans couper le texte)"]}}
