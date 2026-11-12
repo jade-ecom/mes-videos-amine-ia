@@ -5,16 +5,17 @@
  "marque": "Nevylia",
  "produit": "lampe pie (lampe oiseau)",
  "site": "",
- "notes": "Élève dit avoir les droits sur la vidéo (Valotalo). Pas de voix off ni de texte. Image de fin VALOTALO (images 243-360) remplacée par une fin Nevylia (fond flou de la dernière scène, NEVYLIA + 'Une touche, et elle s'allume.', fondu au noir). Miroir sur toute la vidéo (choix de l'élève). Chanson retirée (droits de la musique non couverts) : livrée sans musique, l'élève choisit un son de la bibliothèque Meta.",
+ "notes": "Élève dit avoir les droits sur la vidéo (Valotalo). Pas de voix off ni de texte. Image de fin VALOTALO (images 243-360) remplacée par une fin Nevylia (fond flou de la dernière scène, NEVYLIA + 'Une touche, et elle s'allume.', fondu au noir). Miroir sur toute la vidéo (choix de l'élève). Chanson retirée (droits de la musique non couverts) : livrée sans musique, l'élève choisit un son de la bibliothèque Meta. v01 bis : son = voix fredonnée originale sans paroles ni instruments, générée par suno-ai/bark sur Replicate (2 essais, le 1er gardé), fondu de fin.",
  "bilan": {
   "duree_source_s": 12.17,
   "vmake_s": 0,
   "caracteres_elevenlabs": 0,
-  "replicate_appels": 0,
+  "replicate_appels": 2,
   "reprises": 0,
   "problemes": [
    "Demande de garder la voix chantée refusée (droits musicaux) : vidéo sans musique",
-   "Site non donné : pas d'URL sur la fin"
+   "Site non donné : pas d'URL sur la fin",
+   "Élève ne veut pas d instruments (raison religieuse) : voix fredonnée originale générée (bark) au lieu de la voix de la chanson"
   ]
  }
 }
