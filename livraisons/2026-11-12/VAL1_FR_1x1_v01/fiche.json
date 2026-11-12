@@ -1,0 +1,97 @@
+{
+ "ref": "VAL1",
+ "langue_source": "fi",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "2c87b30bbba041919699bc8b6fe21e56",
+  "repli_id": "2c87b30bbba041919699bc8b6fe21e56",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "S1",
+   "texte": "Et si ta lampe devenait la star de la pièce ?",
+   "debut": 0.06,
+   "fin_fenetre": 3.28
+  },
+  {
+   "id": "S2",
+   "texte": "Mélia allie une forme épurée et l'inspiration de la nature.",
+   "debut": 3.28,
+   "fin_fenetre": 8.3
+  },
+  {
+   "id": "S3",
+   "texte": "Discrète et pleine de charme.",
+   "debut": 8.36,
+   "fin_fenetre": 11.1
+  },
+  {
+   "id": "S4",
+   "texte": "Elle embellit chaque coin de la maison.",
+   "debut": 11.14,
+   "fin_fenetre": 14.0
+  },
+  {
+   "id": "S5",
+   "texte": "Offre à ta maison une ambiance naturelle dès aujourd'hui.",
+   "debut": 14.04,
+   "fin_fenetre": 17.7
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "crf": 17,
+  "zones_vmake": "auto",
+  "sous_titres": {
+   "mode": "mots",
+   "max_mots": 5,
+   "max_car": 30,
+   "max_car_ligne": 18,
+   "y": 580,
+   "taille": 30,
+   "graisse": 700,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    0,
+    0
+   ],
+   "flou": 0.5,
+   "trait": 3
+  }
+ },
+ "marque": "Mélia",
+ "produit": "Mélia (lampe oiseau tactile)",
+ "site": "",
+ "offre": "aucune dans la source",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Élève dit avoir les droits sur la vidéo (Valotalo, fi). Voix off finnoise -> voix française clonée (Fish Audio). Sous-titres mobiles 2 lignes blanc contour noir sans fond, images 7-528 -> Vmake (17,8 s). 4 plans [0,70,105,165,529]. Produit renommé Mélia (Kora/Cora dans la source). Miroir demandé sur les 10 premières secondes, plan continu de 5,5 à 17,7 s : bascule en fondu de 0,5 s à 10,45-10,95 s (pause de voix entre S3 et S4). Séparation Replicate faite à la main (le script recevait 403, curl OK).",
+ "bilan": {
+  "duree_source_s": 17.79,
+  "vmake_s": 17.79,
+  "caracteres_elevenlabs": 229,
+  "replicate_appels": 1,
+  "reprises": 0,
+  "problemes": [
+   "Source en page HTML de la bibliothèque Meta (Valotalo) ; élève dit avoir les droits",
+   "Replicate : 403 depuis analyse.py (urllib) alors que curl passe : séparation faite à la main par curl",
+   "Clone Fish Audio refusé (403, model creation limit 0/0 : pas de crédit API) : voix publique Femme 2c87b30b…",
+   "MT_AK toujours collée avec un texte en trop",
+   "Miroir 10 s en plein plan : fondu 0,5 s à 10,45 s pendant une pause de voix (léger effet de double image)",
+   "Phrases françaises un peu plus courtes que la source (ratio 0,6-0,8), pas de trou signalé"
+  ]
+ }
+}
