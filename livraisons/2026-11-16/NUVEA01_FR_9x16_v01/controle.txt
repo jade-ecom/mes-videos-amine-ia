@@ -1,0 +1,10 @@
+OK     :
+  - format 720x1280 identique à la source
+  - durée vidéo 427.77 s / source 427.77 s = 100.0 %
+  - phrases plus longues que leur fenêtre : aucune
+ALERTE :
+  - mots affichés contre voix : 1 écart(s) notable(s) [('abîmer leur nerf', 'leurs nerfs')]
+  - sous-titres de moins de 0,3 s : [('et à', 0.27), ('huit heures', 0.27), ('Et dès', 0.27), ('Et puis', 0.27)]
+  - trous de voix absents de la source : L1→L2 8.7-9.9 s (source parle 0.8 s), L24→L25 97.6-99.3 s (source parle 1.7 s)
+À vérifier à la main (non automatisable) : fidélité de la voix à l'écoute, logo ou texte d'origine sur les micro-plans, qualité des plans remplacés.
+planche : travail/NUVEA01/controle_planche.jpg

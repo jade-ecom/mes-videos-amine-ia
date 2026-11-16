@@ -1,0 +1,1385 @@
+{
+ "ref": "NUVEA01",
+ "langue_source": "it",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "0eb14266b97f48c2921c40787f514bd9",
+  "repli_id": "0eb14266b97f48c2921c40787f514bd9",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "Après deux longues années de douleur à la fesse et à la jambe, j'ai découvert que j'écrasais littéralement mon propre nerf, huit heures par jour, sans en avoir la moindre idée.",
+   "debut": 0.24,
+   "vitesse": 0.9,
+   "fin_fenetre": 9.83
+  },
+  {
+   "id": "L2",
+   "texte": "J'ai dépensé plus de 2000 euros pour m'en débarrasser.",
+   "debut": 9.88,
+   "vitesse": 0.9,
+   "fin_fenetre": 13.09
+  },
+  {
+   "id": "L3",
+   "texte": "L'ostéopathe, le kiné, 60 euros la séance.",
+   "debut": 13.14,
+   "vitesse": 0.9,
+   "fin_fenetre": 17.35
+  },
+  {
+   "id": "L4",
+   "texte": "Rien ne marchait.",
+   "debut": 17.4,
+   "vitesse": 0.9,
+   "fin_fenetre": 18.87
+  },
+  {
+   "id": "L5",
+   "texte": "Les infiltrations, les massages, les médicaments, une chaise de bureau ergonomique à 600 euros.",
+   "debut": 18.92,
+   "vitesse": 0.9,
+   "fin_fenetre": 25.03
+  },
+  {
+   "id": "L6",
+   "texte": "Et les coussins ?",
+   "debut": 25.08,
+   "vitesse": 0.9,
+   "fin_fenetre": 26.73
+  },
+  {
+   "id": "L7",
+   "texte": "Celui en mousse, écrasé en un mois.",
+   "debut": 26.78,
+   "vitesse": 0.9,
+   "fin_fenetre": 29.95
+  },
+  {
+   "id": "L8",
+   "texte": "La bouée gonflable, dégonflée au bout d'un an.",
+   "debut": 30.0,
+   "vitesse": 0.9,
+   "fin_fenetre": 33.57
+  },
+  {
+   "id": "L9",
+   "texte": "Le coussin troué pour le coccyx.",
+   "debut": 33.62,
+   "vitesse": 0.9,
+   "fin_fenetre": 36.41
+  },
+  {
+   "id": "L10",
+   "texte": "À la fin, j'empilais deux coussins du canapé, ou je mettais une couverture pliée, qui finissait toujours par rouler sous mes cuisses.",
+   "debut": 36.46,
+   "vitesse": 0.9,
+   "fin_fenetre": 42.81
+  },
+  {
+   "id": "L11",
+   "texte": "Et malgré tout ça, je continuais à sentir des élancements dans les os des fesses.",
+   "debut": 43.26,
+   "vitesse": 0.9,
+   "fin_fenetre": 47.43
+  },
+  {
+   "id": "L12",
+   "texte": "J'ai vu quatre médecins, et chacun me disait autre chose.",
+   "debut": 47.48,
+   "vitesse": 0.9,
+   "fin_fenetre": 50.55
+  },
+  {
+   "id": "L13",
+   "texte": "C'est une hernie discale ?",
+   "debut": 50.81,
+   "vitesse": 0.9,
+   "fin_fenetre": 52.93
+  },
+  {
+   "id": "L14",
+   "texte": "Non, c'est musculaire.",
+   "debut": 52.98,
+   "vitesse": 0.9,
+   "fin_fenetre": 54.91
+  },
+  {
+   "id": "L15",
+   "texte": "Il faut faire une IRM.",
+   "debut": 54.96,
+   "vitesse": 0.9,
+   "fin_fenetre": 57.01
+  },
+  {
+   "id": "L16",
+   "texte": "Non, l'IRM ne montrera rien.",
+   "debut": 57.06,
+   "vitesse": 0.9,
+   "fin_fenetre": 59.97
+  },
+  {
+   "id": "L17",
+   "texte": "Parfois, j'avais un petit peu de répit, et je me disais : voilà, cette fois, c'est la bonne.",
+   "debut": 60.02,
+   "vitesse": 0.9,
+   "fin_fenetre": 64.61
+  },
+  {
+   "id": "L18",
+   "texte": "Et dès le lendemain, il suffisait d'une heure de voiture ou d'une matinée au bureau, et la douleur revenait.",
+   "debut": 64.66,
+   "vitesse": 0.9,
+   "fin_fenetre": 70.81
+  },
+  {
+   "id": "L19",
+   "texte": "Parfois encore plus forte.",
+   "debut": 70.86,
+   "vitesse": 0.9,
+   "fin_fenetre": 72.83
+  },
+  {
+   "id": "L20",
+   "texte": "Je ne pouvais plus rester assis longtemps.",
+   "debut": 72.88,
+   "vitesse": 0.9,
+   "fin_fenetre": 75.17
+  },
+  {
+   "id": "L21",
+   "texte": "Je me levais toutes les dix minutes.",
+   "debut": 75.22,
+   "vitesse": 0.9,
+   "fin_fenetre": 77.19
+  },
+  {
+   "id": "L22",
+   "texte": "Je commençais à croire que j'allais devoir vivre avec, toute ma vie.",
+   "debut": 77.27,
+   "vitesse": 0.9,
+   "fin_fenetre": 80.97
+  },
+  {
+   "id": "L23",
+   "texte": "Et puis un jour, mon voisin, kiné depuis trente ans, m'a parlé d'une chose tellement simple que je n'arrivais pas à croire que personne ne m'en ait jamais parlé avant.",
+   "debut": 81.02,
+   "vitesse": 0.9,
+   "fin_fenetre": 89.71
+  },
+  {
+   "id": "L24",
+   "texte": "Tous les jours, je vois des patients qui ont de plus en plus mal à la fesse, dans le bas du dos, ou à la jambe, et ils me disent tous, exactement, la même phrase.",
+   "debut": 89.76,
+   "vitesse": 0.9,
+   "fin_fenetre": 99.29
+  },
+  {
+   "id": "L25",
+   "texte": "Je n'arrive plus à rester assis.",
+   "debut": 99.34,
+   "vitesse": 0.9,
+   "fin_fenetre": 101.09
+  },
+  {
+   "id": "L26",
+   "texte": "Et je peux t'expliquer exactement ce qui se passe.",
+   "debut": 101.18,
+   "vitesse": 0.9,
+   "fin_fenetre": 104.89
+  },
+  {
+   "id": "L27",
+   "texte": "Ils sont en train d'abîmer leur nerf pendant qu'ils sont assis.",
+   "debut": 104.94,
+   "vitesse": 0.9,
+   "fin_fenetre": 107.9
+  },
+  {
+   "id": "L28",
+   "texte": "Quand tu es assis, tout ton poids repose sur deux petits os sous les fesses.",
+   "debut": 108.0,
+   "vitesse": 0.9,
+   "fin_fenetre": 111.98
+  },
+  {
+   "id": "L29",
+   "texte": "On les appelle les ischions.",
+   "debut": 112.03,
+   "vitesse": 0.9,
+   "fin_fenetre": 114.16
+  },
+  {
+   "id": "L30",
+   "texte": "Juste à côté passe le nerf sciatique, sous un petit muscle profond de la fesse.",
+   "debut": 114.21,
+   "vitesse": 0.9,
+   "fin_fenetre": 118.78
+  },
+  {
+   "id": "L31",
+   "texte": "Le piriforme.",
+   "debut": 118.83,
+   "vitesse": 0.9,
+   "fin_fenetre": 120.48
+  },
+  {
+   "id": "L32",
+   "texte": "Sur une chaise dure, sur le siège de la voiture, ou sur un coussin en mousse tout écrasé, ton poids presse ce muscle contre le nerf, comme dans un étau.",
+   "debut": 120.53,
+   "vitesse": 0.9,
+   "fin_fenetre": 129.3
+  },
+  {
+   "id": "L33",
+   "texte": "Et ça dure 6 à 8, parfois 10 heures, tous les jours, sans exception.",
+   "debut": 129.35,
+   "vitesse": 0.9,
+   "fin_fenetre": 134.06
+  },
+  {
+   "id": "L34",
+   "texte": "Au bureau, sur la chaise de la cuisine, dans le fauteuil du salon devenu inconfortable, pendant les 500 kilomètres qui te séparent de tes petits-enfants, et pendant les 12 heures d'avion.",
+   "debut": 134.11,
+   "vitesse": 0.9,
+   "fin_fenetre": 143.54
+  },
+  {
+   "id": "L35",
+   "texte": "Une compression continue, alors que tu crois te reposer.",
+   "debut": 143.63,
+   "vitesse": 0.9,
+   "fin_fenetre": 146.7
+  },
+  {
+   "id": "L36",
+   "texte": "Ce n'est pas juste une douleur, c'est un nerf écrasé.",
+   "debut": 146.96,
+   "vitesse": 0.9,
+   "fin_fenetre": 149.92
+  },
+  {
+   "id": "L37",
+   "texte": "D'abord, ça brûle, ensuite ça fourmille, puis toute la jambe s'endort, et le pied devient lourd.",
+   "debut": 149.97,
+   "vitesse": 0.9,
+   "fin_fenetre": 156.06
+  },
+  {
+   "id": "L38",
+   "texte": "Certaines personnes ne peuvent même plus rester assises le temps d'un dîner.",
+   "debut": 156.11,
+   "vitesse": 0.9,
+   "fin_fenetre": 159.64
+  },
+  {
+   "id": "L39",
+   "texte": "Ils ne vont plus au théâtre.",
+   "debut": 159.69,
+   "vitesse": 0.9,
+   "fin_fenetre": 161.34
+  },
+  {
+   "id": "L40",
+   "texte": "Elles ne font plus la route en voiture pour aller voir leurs enfants.",
+   "debut": 161.39,
+   "vitesse": 0.9,
+   "fin_fenetre": 164.46
+  },
+  {
+   "id": "L41",
+   "texte": "Et si ça continue comme ça, le nerf s'irrite de plus en plus vite, jusqu'à ce que rester assis un seul instant devienne une vraie torture.",
+   "debut": 164.61,
+   "vitesse": 0.9,
+   "fin_fenetre": 170.7
+  },
+  {
+   "id": "L42",
+   "texte": "Mais alors, qu'est-ce qui cause tout ça ?",
+   "debut": 171.15,
+   "vitesse": 0.9,
+   "fin_fenetre": 173.14
+  },
+  {
+   "id": "L43",
+   "texte": "Ça a un nom : le syndrome du piriforme.",
+   "debut": 173.25,
+   "vitesse": 0.9,
+   "fin_fenetre": 175.64
+  },
+  {
+   "id": "L44",
+   "texte": "On l'appelle aussi le syndrome du portefeuille, car il touchait les hommes assis toute la journée sur leur portefeuille.",
+   "debut": 175.97,
+   "vitesse": 0.9,
+   "fin_fenetre": 181.86
+  },
+  {
+   "id": "L45",
+   "texte": "Rien à voir avec une hernie discale ou une élongation.",
+   "debut": 181.91,
+   "vitesse": 0.9,
+   "fin_fenetre": 185.16
+  },
+  {
+   "id": "L46",
+   "texte": "C'est un problème silencieux, qui s'aggrave chaque jour passé assis.",
+   "debut": 185.21,
+   "vitesse": 0.9,
+   "fin_fenetre": 188.94
+  },
+  {
+   "id": "L47",
+   "texte": "Après avoir vu tant de patients souffrir, jour après jour, j'ai cherché une vraie solution.",
+   "debut": 189.01,
+   "vitesse": 0.9,
+   "fin_fenetre": 194.14
+  },
+  {
+   "id": "L48",
+   "texte": "Quelque chose qui protège le nerf quand on est assis, sans médicaments, sans un gros coussin énorme et encombrant, et sans obliger les gens à se lever toutes les 10 minutes.",
+   "debut": 194.19,
+   "vitesse": 0.9,
+   "fin_fenetre": 203.14
+  },
+  {
+   "id": "L49",
+   "texte": "Alors, j'ai étudié de très près comment le poids se répartit sur une chaise, ce que deviennent les coussins après quelques semaines, et où finit vraiment la pression.",
+   "debut": 203.19,
+   "vitesse": 0.9,
+   "fin_fenetre": 211.26
+  },
+  {
+   "id": "L50",
+   "texte": "Et ce que j'ai découvert est choquant.",
+   "debut": 211.31,
+   "vitesse": 0.9,
+   "fin_fenetre": 213.54
+  },
+  {
+   "id": "L51",
+   "texte": "Le coussin que tu crois confortable ne te protège pas.",
+   "debut": 213.59,
+   "vitesse": 0.9,
+   "fin_fenetre": 216.09
+  },
+  {
+   "id": "L52",
+   "texte": "La mousse s'écrase sous ces deux petits os, et en quelques minutes, tu es de nouveau assis sur du dur.",
+   "debut": 216.97,
+   "vitesse": 0.9,
+   "fin_fenetre": 221.25
+  },
+  {
+   "id": "L53",
+   "texte": "Pareil pour la couverture pliée.",
+   "debut": 222.93,
+   "vitesse": 0.9,
+   "fin_fenetre": 223.19
+  },
+  {
+   "id": "L54",
+   "texte": "Et les coussins empilés, pareil.",
+   "debut": 224.98,
+   "vitesse": 0.9,
+   "fin_fenetre": 224.83
+  },
+  {
+   "id": "L55",
+   "texte": "Et le nerf se remet à porter tout le poids, pendant des heures.",
+   "debut": 227.03,
+   "vitesse": 0.9,
+   "fin_fenetre": 227.93
+  },
+  {
+   "id": "L56",
+   "texte": "Alors aujourd'hui, je conseille une tout autre solution.",
+   "debut": 230.82,
+   "vitesse": 0.9,
+   "fin_fenetre": 231.17
+  },
+  {
+   "id": "L57",
+   "texte": "Le coussin en gel nid d'abeille de Nuvéa.",
+   "debut": 234.15,
+   "vitesse": 0.9,
+   "fin_fenetre": 234.09
+  },
+  {
+   "id": "L58",
+   "texte": "C'est un coussin fin, que tu poses sur ta chaise, ton fauteuil ou ton siège de voiture.",
+   "debut": 236.56,
+   "vitesse": 0.9,
+   "fin_fenetre": 239.23
+  },
+  {
+   "id": "L59",
+   "texte": "Il est fait de centaines de cellules de gel.",
+   "debut": 241.4,
+   "vitesse": 0.9,
+   "fin_fenetre": 241.75
+  },
+  {
+   "id": "L60",
+   "texte": "Sous ton poids, elles ne s'écrasent pas, elles plient sur le côté.",
+   "debut": 243.76,
+   "vitesse": 0.9,
+   "fin_fenetre": 244.91
+  },
+  {
+   "id": "L61",
+   "texte": "Le poids ne se concentre plus sur ces deux petits os, il se répartit sur toute l'assise.",
+   "debut": 246.93,
+   "vitesse": 0.9,
+   "fin_fenetre": 249.91
+  },
+  {
+   "id": "L62",
+   "texte": "Le piriforme n'écrase plus le nerf.",
+   "debut": 251.82,
+   "vitesse": 1.0,
+   "fin_fenetre": 251.89
+  },
+  {
+   "id": "L63",
+   "texte": "Le nerf respire enfin, et ton dos peut enfin se reposer vraiment.",
+   "debut": 253.71,
+   "vitesse": 0.9,
+   "fin_fenetre": 256.21
+  },
+  {
+   "id": "L64",
+   "texte": "Tout ça pendant que tu es assis, sans médicaments, sans attelle.",
+   "debut": 257.51,
+   "vitesse": 0.9,
+   "fin_fenetre": 259.85
+  },
+  {
+   "id": "L65",
+   "texte": "Il suffit de changer ce sur quoi tu t'assois.",
+   "debut": 260.99,
+   "vitesse": 0.9,
+   "fin_fenetre": 262.11
+  },
+  {
+   "id": "L66",
+   "texte": "Et je sais ce que tu penses.",
+   "debut": 263.45,
+   "vitesse": 0.9,
+   "fin_fenetre": 263.95
+  },
+  {
+   "id": "L67",
+   "texte": "Encore un coussin miracle qui ne sert à rien.",
+   "debut": 265.18,
+   "vitesse": 0.9,
+   "fin_fenetre": 267.17
+  },
+  {
+   "id": "L68",
+   "texte": "Tu en vois passer tous les jours sur Facebook, et tu ne sais plus ce qui est vrai.",
+   "debut": 267.59,
+   "vitesse": 0.9,
+   "fin_fenetre": 271.33
+  },
+  {
+   "id": "L69",
+   "texte": "Tu as raison de te méfier.",
+   "debut": 271.39,
+   "vitesse": 0.9,
+   "fin_fenetre": 273.11
+  },
+  {
+   "id": "L70",
+   "texte": "Et de toute façon, inutile de chercher ce coussin sur les grandes plateformes.",
+   "debut": 273.16,
+   "vitesse": 0.9,
+   "fin_fenetre": 277.07
+  },
+  {
+   "id": "L71",
+   "texte": "Il y a plein de coussins pas chers qui lui ressemblent, mais ils ne se valent pas.",
+   "debut": 277.22,
+   "vitesse": 0.9,
+   "fin_fenetre": 281.13
+  },
+  {
+   "id": "L72",
+   "texte": "Le problème des copies, c'est la matière.",
+   "debut": 281.22,
+   "vitesse": 0.9,
+   "fin_fenetre": 283.53
+  },
+  {
+   "id": "L73",
+   "texte": "La plupart sont en simple mousse, ou une fine couche de gel collée sur de la mousse.",
+   "debut": 283.58,
+   "vitesse": 0.9,
+   "fin_fenetre": 288.39
+  },
+  {
+   "id": "L74",
+   "texte": "Ça s'écrase, ça glisse, et après quelques semaines, c'est plat.",
+   "debut": 288.44,
+   "vitesse": 0.9,
+   "fin_fenetre": 291.85
+  },
+  {
+   "id": "L75",
+   "texte": "Alors ne me crois pas sur parole.",
+   "debut": 292.08,
+   "vitesse": 0.9,
+   "fin_fenetre": 294.03
+  },
+  {
+   "id": "L76",
+   "texte": "Appuie dessus.",
+   "debut": 294.13,
+   "vitesse": 0.9,
+   "fin_fenetre": 295.13
+  },
+  {
+   "id": "L77",
+   "texte": "Sur la mousse, l'empreinte reste.",
+   "debut": 295.23,
+   "vitesse": 0.9,
+   "fin_fenetre": 297.29
+  },
+  {
+   "id": "L78",
+   "texte": "Le coussin nid d'abeille, lui, est en gel sur toute son épaisseur.",
+   "debut": 297.44,
+   "vitesse": 0.9,
+   "fin_fenetre": 300.97
+  },
+  {
+   "id": "L79",
+   "texte": "Tu appuies de toutes tes forces, tu lâches, et il a déjà repris sa forme.",
+   "debut": 301.13,
+   "vitesse": 0.9,
+   "fin_fenetre": 305.15
+  },
+  {
+   "id": "L80",
+   "texte": "Aujourd'hui, demain, dans un an.",
+   "debut": 305.2,
+   "vitesse": 1.0,
+   "fin_fenetre": 306.97
+  },
+  {
+   "id": "L81",
+   "texte": "Sa housse noire est antidérapante.",
+   "debut": 307.02,
+   "vitesse": 0.9,
+   "fin_fenetre": 309.19
+  },
+  {
+   "id": "L82",
+   "texte": "Il ne bouge pas d'un millimètre, même si tu bouges, même en voiture.",
+   "debut": 309.43,
+   "vitesse": 0.9,
+   "fin_fenetre": 313.11
+  },
+  {
+   "id": "L83",
+   "texte": "Plus besoin de le remettre en place toutes les dix minutes.",
+   "debut": 313.33,
+   "vitesse": 0.9,
+   "fin_fenetre": 315.91
+  },
+  {
+   "id": "L84",
+   "texte": "Et la housse passe en machine quand tu veux.",
+   "debut": 316.11,
+   "vitesse": 0.9,
+   "fin_fenetre": 318.49
+  },
+  {
+   "id": "L85",
+   "texte": "Il n'est pas gros, il n'est pas encombrant.",
+   "debut": 318.54,
+   "vitesse": 0.9,
+   "fin_fenetre": 320.86
+  },
+  {
+   "id": "L86",
+   "texte": "Il est fin et léger.",
+   "debut": 320.91,
+   "vitesse": 0.9,
+   "fin_fenetre": 322.6
+  },
+  {
+   "id": "L87",
+   "texte": "Il te suit partout.",
+   "debut": 322.65,
+   "vitesse": 0.9,
+   "fin_fenetre": 324.1
+  },
+  {
+   "id": "L88",
+   "texte": "Du bureau à la voiture, de la cuisine au canapé, et même en avion.",
+   "debut": 324.15,
+   "vitesse": 0.9,
+   "fin_fenetre": 328.52
+  },
+  {
+   "id": "L89",
+   "texte": "À côté, les autres coussins sont des éponges.",
+   "debut": 328.57,
+   "vitesse": 0.9,
+   "fin_fenetre": 331.46
+  },
+  {
+   "id": "L90",
+   "texte": "Celui-ci, c'est un vrai soutien.",
+   "debut": 331.51,
+   "vitesse": 0.9,
+   "fin_fenetre": 333.38
+  },
+  {
+   "id": "L91",
+   "texte": "Moelleux sous les fesses, mais assez ferme pour que le poids ne retombe jamais sur le nerf.",
+   "debut": 333.56,
+   "vitesse": 0.9,
+   "fin_fenetre": 338.2
+  },
+  {
+   "id": "L92",
+   "texte": "C'est exactement ce dont ton corps a besoin pour récupérer.",
+   "debut": 338.25,
+   "vitesse": 0.9,
+   "fin_fenetre": 341.68
+  },
+  {
+   "id": "L93",
+   "texte": "Pas juste différent.",
+   "debut": 341.73,
+   "vitesse": 1.0,
+   "fin_fenetre": 343.06
+  },
+  {
+   "id": "L94",
+   "texte": "Il est pensé pour une seule chose : que le poids ne tombe plus jamais sur deux points.",
+   "debut": 343.11,
+   "vitesse": 0.9,
+   "fin_fenetre": 347.34
+  },
+  {
+   "id": "L95",
+   "texte": "Depuis sa sortie, chaque semaine, on reçoit des messages de gens qui avaient tout essayé.",
+   "debut": 347.39,
+   "vitesse": 0.9,
+   "fin_fenetre": 352.48
+  },
+  {
+   "id": "L96",
+   "texte": "Ils s'assoient sans y penser.",
+   "debut": 352.53,
+   "vitesse": 0.9,
+   "fin_fenetre": 354.58
+  },
+  {
+   "id": "L97",
+   "texte": "Moins de brûlure à la fesse, moins de douleur qui descend dans la jambe.",
+   "debut": 354.63,
+   "vitesse": 0.9,
+   "fin_fenetre": 358.3
+  },
+  {
+   "id": "L98",
+   "texte": "Et ils profitent de nouveau des voyages, des repas, des soirées.",
+   "debut": 358.35,
+   "vitesse": 0.9,
+   "fin_fenetre": 361.82
+  },
+  {
+   "id": "L99",
+   "texte": "Car dès que le poids est bien réparti, ton corps n'a plus à lutter contre sa propre chaise.",
+   "debut": 361.88,
+   "vitesse": 0.9,
+   "fin_fenetre": 367.1
+  },
+  {
+   "id": "L100",
+   "texte": "Le gel nid d'abeille offre enfin une trêve à ton nerf sciatique.",
+   "debut": 367.15,
+   "vitesse": 0.9,
+   "fin_fenetre": 370.48
+  },
+  {
+   "id": "L101a",
+   "texte": "Imagine : tu finis ta journée de travail sans brûlure à la fesse.",
+   "debut": 370.68,
+   "vitesse": 0.9,
+   "fin_fenetre": 374.85
+  },
+  {
+   "id": "L101b",
+   "texte": "Tu fais les 500 km jusqu'à tes petits-enfants, et tu descends de voiture pour les serrer fort.",
+   "debut": 374.9,
+   "vitesse": 0.9,
+   "fin_fenetre": 379.85
+  },
+  {
+   "id": "L101c",
+   "texte": "Tu prends l'avion sans redouter les heures de vol.",
+   "debut": 380.18,
+   "vitesse": 0.9,
+   "fin_fenetre": 382.55
+  },
+  {
+   "id": "L101d",
+   "texte": "Tu restes à table jusqu'au café.",
+   "debut": 382.8,
+   "vitesse": 0.9,
+   "fin_fenetre": 384.95
+  },
+  {
+   "id": "L101e",
+   "texte": "Tu regardes le spectacle jusqu'au bout.",
+   "debut": 385.0,
+   "vitesse": 0.9,
+   "fin_fenetre": 387.75
+  },
+  {
+   "id": "L101f",
+   "texte": "Tu passes la journée sans douleur.",
+   "debut": 387.8,
+   "vitesse": 0.9,
+   "fin_fenetre": 389.85
+  },
+  {
+   "id": "L101g",
+   "texte": "C'est ce que ce coussin fait déjà pour des gens comme toi.",
+   "debut": 389.9,
+   "vitesse": 0.9,
+   "fin_fenetre": 393.35
+  },
+  {
+   "id": "L101h",
+   "texte": "Et il peut le faire pour toi aussi.",
+   "debut": 393.4,
+   "vitesse": 0.9,
+   "fin_fenetre": 395.45
+  },
+  {
+   "id": "L101i",
+   "texte": "Pour l'essayer, clique sur le lien juste en dessous.",
+   "debut": 395.5,
+   "vitesse": 0.9,
+   "fin_fenetre": 398.55
+  },
+  {
+   "id": "L101j",
+   "texte": "Et en ce moment, pour chaque coussin que tu achètes, le deuxième, on te l'offre.",
+   "debut": 398.6,
+   "vitesse": 0.9,
+   "fin_fenetre": 403.26
+  },
+  {
+   "id": "L102",
+   "texte": "Un pour toi, et un pour ton mari ou ta femme.",
+   "debut": 403.31,
+   "vitesse": 0.9,
+   "fin_fenetre": 406.04
+  },
+  {
+   "id": "L103",
+   "texte": "Ou un pour la maison et un pour la voiture.",
+   "debut": 406.09,
+   "vitesse": 0.9,
+   "fin_fenetre": 408.88
+  },
+  {
+   "id": "L104",
+   "texte": "Car il suffit d'une seule journée sur la mauvaise chaise pour réveiller la douleur.",
+   "debut": 408.93,
+   "vitesse": 0.9,
+   "fin_fenetre": 413.24
+  },
+  {
+   "id": "L105",
+   "texte": "Et quand elle revient, elle revient fort.",
+   "debut": 413.29,
+   "vitesse": 0.9,
+   "fin_fenetre": 415.5
+  },
+  {
+   "id": "L106",
+   "texte": "Tu as 60 jours pour l'essayer chez toi.",
+   "debut": 415.55,
+   "vitesse": 0.9,
+   "fin_fenetre": 417.7
+  },
+  {
+   "id": "L107",
+   "texte": "S'il ne change pas ta façon d'être assis, on te rembourse.",
+   "debut": 417.91,
+   "vitesse": 0.9,
+   "fin_fenetre": 420.72
+  },
+  {
+   "id": "L108",
+   "texte": "Alors clique sur le lien en dessous, et offre enfin à ton nerf la pause qu'il attend depuis des années.",
+   "debut": 421.18,
+   "vitesse": 0.9,
+   "fin_fenetre": 427.5
+  }
+ ],
+ "mix": {
+  "fond": "aucun"
+ },
+ "rendu": {
+  "crf": 17,
+  "encodeur": "x264",
+  "zones_vmake": "auto",
+  "textes": [
+   {
+    "images": [
+     187,
+     229
+    ],
+    "lignes": [
+     "HUIT HEURES",
+     "PAR JOUR"
+    ],
+    "y": 576,
+    "taille": 64,
+    "couleur": [
+     255,
+     255,
+     255
+    ],
+    "couleur_ombre": [
+     0,
+     0,
+     0
+    ],
+    "trait": 4,
+    "interligne": 1.65,
+    "graisse": 800
+   },
+   {
+    "images": [
+     293,
+     389
+    ],
+    "lignes": [
+     "2 000 €"
+    ],
+    "y": 349,
+    "taille": 62,
+    "couleur": [
+     251,
+     209,
+     5
+    ],
+    "couleur_ombre": [
+     0,
+     0,
+     0
+    ],
+    "trait": 4,
+    "interligne": 1.08,
+    "graisse": 800
+   },
+   {
+    "images": [
+     428,
+     516
+    ],
+    "lignes": [
+     "60 €"
+    ],
+    "y": 346,
+    "taille": 62,
+    "couleur": [
+     251,
+     209,
+     5
+    ],
+    "couleur_ombre": [
+     0,
+     0,
+     0
+    ],
+    "trait": 4,
+    "interligne": 1.08,
+    "graisse": 800
+   },
+   {
+    "images": [
+     3833,
+     3941
+    ],
+    "lignes": [
+     "8 HEURES"
+    ],
+    "y": 346,
+    "taille": 62,
+    "couleur": [
+     251,
+     209,
+     5
+    ],
+    "couleur_ombre": [
+     0,
+     0,
+     0
+    ],
+    "trait": 4,
+    "interligne": 1.08,
+    "graisse": 800
+   },
+   {
+    "images": [
+     5215,
+     5264
+    ],
+    "lignes": [
+     "LE SYNDROME",
+     "DU PIRIFORME"
+    ],
+    "y": 614,
+    "taille": 50,
+    "couleur": [
+     255,
+     255,
+     255
+    ],
+    "couleur_ombre": [
+     0,
+     0,
+     0
+    ],
+    "trait": 4,
+    "interligne": 1.66,
+    "graisse": 800
+   },
+   {
+    "images": [
+     6369,
+     6404
+    ],
+    "lignes": [
+     "CHOQUANT."
+    ],
+    "y": 577,
+    "taille": 54,
+    "couleur": [
+     255,
+     255,
+     255
+    ],
+    "couleur_ombre": [
+     0,
+     0,
+     0
+    ],
+    "trait": 4,
+    "interligne": 1.08,
+    "graisse": 800
+   },
+   {
+    "images": [
+     8817,
+     8849
+    ],
+    "lignes": [
+     "APPUIE."
+    ],
+    "y": 536,
+    "taille": 60,
+    "couleur": [
+     255,
+     255,
+     255
+    ],
+    "couleur_ombre": [
+     0,
+     0,
+     0
+    ],
+    "trait": 4,
+    "interligne": 1.08,
+    "graisse": 800
+   },
+   {
+    "images": [
+     9151,
+     9204
+    ],
+    "lignes": [
+     "DANS UN AN"
+    ],
+    "y": 346,
+    "taille": 56,
+    "couleur": [
+     30,
+     153,
+     227
+    ],
+    "couleur_ombre": [
+     0,
+     0,
+     0
+    ],
+    "trait": 4,
+    "interligne": 1.08,
+    "graisse": 800
+   },
+   {
+    "images": [
+     12747,
+     12832
+    ],
+    "lignes": [
+     "Nuvéa"
+    ],
+    "y": 440,
+    "taille": 84,
+    "couleur": [
+     20,
+     110,
+     200
+    ],
+    "couleur_ombre": [
+     0,
+     0,
+     0
+    ],
+    "trait": 0,
+    "interligne": 1.08,
+    "graisse": 800
+   },
+   {
+    "images": [
+     12747,
+     12832
+    ],
+    "lignes": [
+     "60 JOURS"
+    ],
+    "y": 668,
+    "taille": 92,
+    "couleur": [
+     255,
+     255,
+     255
+    ],
+    "couleur_ombre": [
+     0,
+     0,
+     0
+    ],
+    "trait": 4,
+    "interligne": 1.08,
+    "graisse": 800
+   },
+   {
+    "images": [
+     12747,
+     12832
+    ],
+    "lignes": [
+     "SATISFAIT",
+     "OU REMBOURSÉ"
+    ],
+    "y": 803,
+    "taille": 36,
+    "couleur": [
+     255,
+     255,
+     255
+    ],
+    "couleur_ombre": [
+     0,
+     0,
+     0
+    ],
+    "trait": 4,
+    "interligne": 1.6,
+    "graisse": 800
+   }
+  ],
+  "patches": [
+   {
+    "images": [
+     7919,
+     8011
+    ],
+    "rect": [
+     135,
+     784,
+     300,
+     820
+    ],
+    "remplir": [
+     255,
+     255,
+     255
+    ],
+    "lignes": [
+     {
+      "texte": "Commentaire",
+      "x": 140,
+      "y": 803,
+      "taille": 17,
+      "graisse": 600,
+      "couleur": [
+       70,
+       70,
+       70
+      ],
+      "ancre": "lm"
+     }
+    ]
+   },
+   {
+    "images": [
+     7919,
+     8011
+    ],
+    "rect": [
+     92,
+     826,
+     640,
+     898
+    ],
+    "remplir": [
+     255,
+     255,
+     255
+    ],
+    "lignes": [
+     {
+      "texte": "Encore un coussin miracle",
+      "x": 98,
+      "y": 843,
+      "taille": 24,
+      "graisse": 400,
+      "couleur": [
+       25,
+       25,
+       25
+      ],
+      "ancre": "lm"
+     },
+     {
+      "texte": "qui ne sert à rien",
+      "x": 98,
+      "y": 881,
+      "taille": 24,
+      "graisse": 400,
+      "couleur": [
+       25,
+       25,
+       25
+      ],
+      "ancre": "lm"
+     }
+    ]
+   },
+   {
+    "images": [
+     8068,
+     8136
+    ],
+    "rect": [
+     135,
+     784,
+     300,
+     820
+    ],
+    "remplir": [
+     255,
+     255,
+     255
+    ],
+    "lignes": [
+     {
+      "texte": "Commentaire",
+      "x": 140,
+      "y": 803,
+      "taille": 17,
+      "graisse": 600,
+      "couleur": [
+       70,
+       70,
+       70
+      ],
+      "ancre": "lm"
+     }
+    ]
+   },
+   {
+    "images": [
+     8068,
+     8136
+    ],
+    "rect": [
+     92,
+     826,
+     540,
+     896
+    ],
+    "remplir": [
+     255,
+     255,
+     255
+    ],
+    "lignes": [
+     {
+      "texte": "On ne sait plus si c'est",
+      "x": 98,
+      "y": 846,
+      "taille": 24,
+      "graisse": 400,
+      "couleur": [
+       25,
+       25,
+       25
+      ],
+      "ancre": "lm"
+     },
+     {
+      "texte": "une arnaque ou du vrai",
+      "x": 98,
+      "y": 881,
+      "taille": 24,
+      "graisse": 400,
+      "couleur": [
+       25,
+       25,
+       25
+      ],
+      "ancre": "lm"
+     }
+    ]
+   },
+   {
+    "images": [
+     10572,
+     10632
+    ],
+    "rect": [
+     82,
+     156,
+     638,
+     198
+    ],
+    "remplir": [
+     28,
+     137,
+     68
+    ],
+    "lignes": [
+     {
+      "texte": "TÉMOIGNAGES · DES ANNÉES DE DOULEUR",
+      "x": 360,
+      "y": 177,
+      "taille": 22,
+      "graisse": 600,
+      "couleur": [
+       255,
+       255,
+       255
+      ],
+      "ancre": "mm"
+     }
+    ]
+   },
+   {
+    "images": [
+     12462,
+     12528
+    ],
+    "rect": [
+     160,
+     452,
+     272,
+     500
+    ],
+    "remplir": "median",
+    "lignes": [
+     {
+      "texte": "Nuvéa",
+      "x": 216,
+      "y": 477,
+      "taille": 20,
+      "graisse": 700,
+      "couleur": [
+       20,
+       110,
+       200
+      ],
+      "ancre": "mm"
+     }
+    ]
+   }
+  ],
+  "sous_titres": {
+   "mode": "mots",
+   "y": 1020,
+   "taille": 38,
+   "graisse": 800,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    1,
+    2
+   ],
+   "trait": 4,
+   "majuscules": true,
+   "max_mots": 3,
+   "max_car": 20,
+   "images": [
+    0,
+    12745
+   ]
+  }
+ },
+ "marque": "Nuvéa",
+ "produit": "coussin en gel Nuvéa",
+ "site": "",
+ "offre": "celle de la source : 1 acheté = le 2e offert, 60 jours satisfait ou remboursé",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": {
+  "type_sous_titres": "3 - karaoké mots (blanc + mot bleu) sans fond, bas centre, toute la vidéo -> Vmake",
+  "titres": "OTTO ORE AL GIORNO (~6s), 2.000 € (~9s), 60 € (~15s), 8 ORE (~123s), LA SINDROME DEL PIRIFORME (~175s), bulle commentaire (~258s), TESTIMONIANZE ANNI DI DOLORE (~345s), logo carton (~412s), carte de fin logo + 60 GIORNI SODDISFATTI O RIMBORSATI (~426s)",
+  "marque_source": "covexia (dite S57 et suivantes)",
+  "site": "aucun site affiché ni dit (CTA = lien ci-dessous)",
+  "demande": "miroir horizontal des 10 premières secondes",
+  "cout_vmake": "~856 crédits (428 s)",
+  "duree_s": 427.9
+ },
+ "bilan": {
+  "duree_source_s": 427.9,
+  "vmake_s": 427.9,
+  "caracteres_elevenlabs": 11220,
+  "replicate_appels": 0,
+  "reprises": 4,
+  "problemes": [
+   "Vmake : crédit insuffisant au 1er essai (60002), l'élève a rechargé",
+   "Replicate : 403 'error code: 1010' sur /v1/predictions (Cloudflare refuse le User-Agent par défaut de urllib dans analyse.separer_replicate) ; upload de fichiers OK ; pas de séparation voix/musique",
+   "Fish Audio : clone refusé (API model creation limit 0/0, crédit API jamais rechargé) -> voix publique 0eb14266b97f48c2921c40787f514bd9 (homme, âge moyen, pub), vitesse 0.9 car débit ~22 car/s",
+   "Échantillon de clone et niveau de voix pris sur full.wav (copié en dm/htdemucs/full/vocals.wav) faute de demucs",
+   "Demande élève : pas de musique de fond (mix.fond aucun) ; 10 premières secondes en miroir (hflip images 0-299 sur src.mp4 et clean_vmake.mp4, puis vmake.py --existant)",
+   "Zones Vmake auto : une lettre de sous-titre oubliée (image 8100) -> bande fixe [30,984,690,1058] sur images 0-12745 ; flèche et croix de pharmacie gardées",
+   "Logo Covexia sur le carton (images 12462-12528) : patch median + 'Nuvéa' ; carte de fin refaite en texte (pas de logo image Nuvéa fourni)",
+   "Restent 2 petits blancs de voix (8.7-9.9 s, 97.6-99.3 s)"
+  ]
+ }
+}
