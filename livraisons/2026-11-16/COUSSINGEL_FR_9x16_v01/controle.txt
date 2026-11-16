@@ -1,0 +1,12 @@
+OK     :
+  - format 720x1280 identique à la source
+  - durée vidéo 56.23 s / source 56.23 s = 100.0 %
+  - phrases plus longues que leur fenêtre : aucune
+  - trous de voix absents de la source : aucun
+  - texte d'origine visible hors de nos rectangles : 0 image(s)
+ALERTE :
+  - mots affichés contre voix : 1 écart(s) notable(s) [('et le mieux', '')]
+  - sous-titres de moins de 0,3 s : [('Tu ne', 0.27), ('Et à', 0.27), ("C'est comme", 0.27), ('le mettre', 0.27)]
+  - à vérifier : sous-titre d'origine sur des images sans rectangle : 327-351, 368-402, 413-422, 591-603, 776-803, 1114-1159, 1174-1189, 1203-1218, 1314-1335, 1405-1419, 1432-1458
+À vérifier à la main (non automatisable) : fidélité de la voix à l'écoute, logo ou texte d'origine sur les micro-plans, qualité des plans remplacés.
+planche : travail/COUSSINGEL/controle_planche.jpg
