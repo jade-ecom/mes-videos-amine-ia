@@ -1,0 +1,205 @@
+{
+ "ref": "COUSSINGEL",
+ "langue_source": "es",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "0eb14266b97f48c2921c40787f514bd9",
+  "repli_id": "0eb14266b97f48c2921c40787f514bd9",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "S1",
+   "texte": "Quand tes fesses ont goûté à un de ceux-là, tu ne peux plus jamais t'asseoir sans lui.",
+   "debut": 0.86,
+   "fin_fenetre": 4.54,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S2",
+   "texte": "Tu ne le remarques sûrement pas, mais chaque fois que tu t'assois, tes fesses et ton koksis s'écrasent sur le siège.",
+   "debut": 4.54,
+   "fin_fenetre": 9.44,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S3",
+   "texte": "Et à la longue, sans bon amorti, ça peut finir en douleur chronique.",
+   "debut": 9.77,
+   "fin_fenetre": 13.44,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S4",
+   "texte": "C'est exactement pour ça que le coussin Nuvéa a une structure en gel, en forme de nid d'abeille.",
+   "debut": 13.44,
+   "fin_fenetre": 18.42,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S5",
+   "texte": "Comme ça, à chaque fois que tu t'assois, tout ce poids est absorbé et bien réparti.",
+   "debut": 18.42,
+   "fin_fenetre": 22.2,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S6",
+   "texte": "Et tes fesses restent toujours confortables.",
+   "debut": 22.45,
+   "fin_fenetre": 24.74,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S7",
+   "texte": "C'est comme un matelas d'eau pour tes fesses.",
+   "debut": 24.74,
+   "fin_fenetre": 26.72,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S8",
+   "texte": "Et ce n'est pas seulement pour ta chaise de bureau, tu peux aussi l'utiliser dans la voiture, parce qu'il est super respirant, même avec des sièges chauffants.",
+   "debut": 26.72,
+   "fin_fenetre": 32.98,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S9",
+   "texte": "Mais là où je l'utilise le plus, c'est sur le canapé et dans le lit, parce que non seulement tu peux t'asseoir dessus, mais tu peux aussi l'enrouler comme ça pour soulager ton mal de dos.",
+   "debut": 33.1,
+   "fin_fenetre": 40.68,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S10",
+   "texte": "Et le meilleur dans tout ça, c'est qu'il est livré avec une housse lavable en machine offerte, pour qu'il ne se salisse jamais.",
+   "debut": 40.97,
+   "fin_fenetre": 46.2,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S11",
+   "texte": "Si tu passes presque toute la journée assis, pourquoi ne pas être bien plus confortable avec l'un d'eux ?",
+   "debut": 46.2,
+   "fin_fenetre": 50.66,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S12",
+   "texte": "Un acheté, le deuxième offert, livraison gratuite.",
+   "debut": 50.78,
+   "fin_fenetre": 53.3,
+   "vitesse": 1.0
+  },
+  {
+   "id": "S13",
+   "texte": "Si tu le veux avant la fin de l'offre, le lien est en bas.",
+   "debut": 53.69,
+   "fin_fenetre": 56.36,
+   "vitesse": 1.0
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "zones_vmake": [
+   {
+    "images": [
+     0,
+     140
+    ],
+    "rect": [
+     20,
+     225,
+     700,
+     320
+    ],
+    "adoucir": 12
+   },
+   {
+    "images": [
+     0,
+     1686
+    ],
+    "rect": [
+     50,
+     945,
+     670,
+     1070
+    ],
+    "adoucir": 12
+   }
+  ],
+  "blocs": [
+   {
+    "images": [
+     0,
+     132
+    ],
+    "lignes": [
+     [
+      "Si t'as mal aux fesses 🍑",
+      [
+       35,
+       233,
+       685,
+       310
+      ]
+     ]
+    ],
+    "taille": 62
+   }
+  ],
+  "sous_titres": {
+   "mode": "mots",
+   "y": 1005,
+   "taille": 50,
+   "majuscules": true,
+   "max_car": 18,
+   "max_mots": 3,
+   "trait": 5,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "fusion_min": 0.38
+  }
+ },
+ "marque": "Nuvéa",
+ "produit": "coussin Nuvéa",
+ "site": "",
+ "offre": "celle de la source : 1 acheté = 1 offert, livraison gratuite",
+ "controle": {
+  "sans_voix": [
+   "Si t'as mal aux fesses 🍑"
+  ]
+ },
+ "notes": "Etape 0 : sous-titres karaoke sans fond (type 3, majuscules blanches contour noir, mot actif bleu), toute la video -> Vmake (~113 credits). Titre bloc blanc 'Si te duele el culete 🍑' images 0-~210, recouvert par notre bloc. Marque source dite en S4 (Covexia) -> Nuvea. Pas de logo, pas de site. Offre fin : 2e offert + livraison gratuite. Demande eleve : 10 premieres secondes en miroir. Miroir applique sur src.mp4 et clean_vmake.mp4 images 0-299 (copies _avant_miroir gardees), zones vmake retournees. S2 : 'koksis' ecrit pour la prononciation, remplace par 'coccyx' dans tts/S2.json (meme longueur) pour les sous-titres.",
+ "bilan": {
+  "duree_source_s": 56.4,
+  "vmake_s": 56.4,
+  "caracteres_elevenlabs": 6739,
+  "replicate_appels": 1,
+  "reprises": 11,
+  "problemes": [
+   "Replicate refusé par analyse.py (Cloudflare 1010, en-tête User-Agent Python-urllib) : séparation faite à la main via curl, même modèle",
+   "Clone Fish Audio refusé (403 limite 0/0, crédit API absent) : voix publique homme 08951efc074d4ea6bd5dbe7629a8dd34",
+   "Surlignage bleu du mot actif non reproduit (rendu.py ne gère pas la couleur par mot)",
+   "Demande élève : 10 premières secondes en miroir, faites sur src.mp4 et clean_vmake.mp4 + zones retournées",
+   "Zones Vmake auto incomplètes (images sans rectangle) : passées en zones manuelles (titre + bande sous-titres)",
+   "enchainer : retard max 0,62 s (S3)",
+   "v02 : élève trouve la voix trop molle et lente -> voix publique 'energetic advertisement' 2829226f, vitesse 1.07, phrases rallongées (traduction plus complète) pour combler les trous",
+   "Nuvéa mal reconnu par Whisper (S4) : à écouter",
+   "v03 : élève veut une voix plus proche de l'original et un peu moins rapide -> 6 voix testées (hauteur, intonation, timbre, débit), choisie 0eb14266 (f0 116 vs 125, timbre 1194 vs 1107), vitesse 1.0",
+   "v04 : 'coccyx' mal prononcé (signalé par l'élève, non détecté par Whisper) -> écrit 'koksis' pour la voix, sous-titre remis en 'coccyx' dans tts/S2.json"
+  ]
+ }
+}
