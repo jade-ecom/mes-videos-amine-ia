@@ -1,0 +1,293 @@
+{
+ "ref": "FB2085",
+ "langue_source": "de",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "bfec6ad61a074485af726842f9f1baee",
+  "repli_id": "bfec6ad61a074485af726842f9f1baee",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "S1",
+   "texte": "Ces tops avec soutien-gorge intégré existent en blanc, noir, gris, beige et ce joli bois de rose !",
+   "debut": 0.06,
+   "fin_fenetre": 6.28
+  },
+  {
+   "id": "S2",
+   "texte": "J'ai 66 ans et j'ai maintenant les cinq couleurs.",
+   "debut": 6.28,
+   "fin_fenetre": 9.26
+  },
+  {
+   "id": "S3",
+   "texte": "Au départ, je voulais juste en essayer un.",
+   "debut": 9.37,
+   "fin_fenetre": 11.84
+  },
+  {
+   "id": "S4",
+   "texte": "Il y a un vrai soutien-gorge cousu dedans, pas juste un bout de tissu ou une mousse amovible qui glisse dans tous les sens.",
+   "debut": 11.84,
+   "fin_fenetre": 18.04
+  },
+  {
+   "id": "S5",
+   "texte": "Les bonnets sont cousus directement devant.",
+   "debut": 18.14,
+   "fin_fenetre": 20.88
+  },
+  {
+   "id": "S6",
+   "texte": "Ça maintient la poitrine.",
+   "debut": 20.88,
+   "fin_fenetre": 21.88
+  },
+  {
+   "id": "S7",
+   "texte": "C'est tout le secret.",
+   "debut": 22.45,
+   "fin_fenetre": 23.7
+  },
+  {
+   "id": "S8",
+   "texte": "Même avec un soutien-gorge classique, ce sont les bonnets qui soutenaient.",
+   "debut": 23.7,
+   "fin_fenetre": 26.88
+  },
+  {
+   "id": "S9",
+   "texte": "La bande servait seulement à garder le soutien-gorge en place.",
+   "debut": 27.08,
+   "fin_fenetre": 30.18
+  },
+  {
+   "id": "S10",
+   "texte": "Et pour ça, elle serrait les côtes toute la journée.",
+   "debut": 30.53,
+   "fin_fenetre": 33.0
+  },
+  {
+   "id": "S11",
+   "texte": "Après les enfants, la ménopause et les années, la peau devient plus fine et plus fragile.",
+   "debut": 33.02,
+   "fin_fenetre": 37.54
+  },
+  {
+   "id": "S12",
+   "texte": "Alors cette pression fait mal aujourd'hui, alors qu'avant, elle ne gênait pas.",
+   "debut": 38.07,
+   "fin_fenetre": 41.4
+  },
+  {
+   "id": "S13",
+   "texte": "Donc ils ont gardé les bonnets et supprimé la bande.",
+   "debut": 41.76,
+   "fin_fenetre": 44.6
+  },
+  {
+   "id": "S14",
+   "texte": "Passe ton doigt tout autour, ici en bas.",
+   "debut": 44.6,
+   "fin_fenetre": 46.94
+  },
+  {
+   "id": "S15",
+   "texte": "Il n'y a rien.",
+   "debut": 46.94,
+   "fin_fenetre": 47.76
+  },
+  {
+   "id": "S16",
+   "texte": "Pas d'armature, pas d'agrafe, pas d'élastique sur les côtes.",
+   "debut": 47.76,
+   "fin_fenetre": 50.6
+  },
+  {
+   "id": "S17",
+   "texte": "Et pas de tour de dos où on risque de se tromper de taille.",
+   "debut": 51.09,
+   "fin_fenetre": 54.3
+  },
+  {
+   "id": "S18",
+   "texte": "Le top s'adapte au corps qu'on a aujourd'hui.",
+   "debut": 54.3,
+   "fin_fenetre": 57.48
+  },
+  {
+   "id": "S19",
+   "texte": "Les bonnets gardent leur forme, même après lavage.",
+   "debut": 57.48,
+   "fin_fenetre": 59.88
+  },
+  {
+   "id": "S20",
+   "texte": "Ils sont bien cousus.",
+   "debut": 60.1,
+   "fin_fenetre": 61.14
+  },
+  {
+   "id": "S21",
+   "texte": "Rien ne se plie, rien ne se tord.",
+   "debut": 61.39,
+   "fin_fenetre": 63.56
+  },
+  {
+   "id": "S22",
+   "texte": "Les bretelles sont larges et bien à plat.",
+   "debut": 63.64,
+   "fin_fenetre": 66.06
+  },
+  {
+   "id": "S23",
+   "texte": "Elles ne cisaillent pas les épaules et ne glissent pas.",
+   "debut": 66.18,
+   "fin_fenetre": 69.26
+  },
+  {
+   "id": "S24",
+   "texte": "Le matin, je l'enfile simplement par la tête, comme un t-shirt.",
+   "debut": 69.26,
+   "fin_fenetre": 72.66
+  },
+  {
+   "id": "S25",
+   "texte": "Enfin, je n'ai plus besoin de chercher l'agrafe du soutien-gorge derrière mon dos.",
+   "debut": 72.66,
+   "fin_fenetre": 76.18
+  },
+  {
+   "id": "S26",
+   "texte": "Le tissu est doux et il respire.",
+   "debut": 76.53,
+   "fin_fenetre": 78.54
+  },
+  {
+   "id": "S27",
+   "texte": "Je le porte directement comme haut et je ne transpire pas.",
+   "debut": 78.79,
+   "fin_fenetre": 81.94
+  },
+  {
+   "id": "S28",
+   "texte": "Pas de marques de soutien-gorge visibles, et pas de bande serrée qui fait remonter la peau sur les côtés.",
+   "debut": 82.03,
+   "fin_fenetre": 87.32
+  },
+  {
+   "id": "S29",
+   "texte": "Tout ce que je mets par-dessus tombe joliment, bien lisse.",
+   "debut": 87.32,
+   "fin_fenetre": 90.3
+  },
+  {
+   "id": "S30",
+   "texte": "Je le porte pour cuisiner, pour ma promenade du matin et pour faire mes courses.",
+   "debut": 90.3,
+   "fin_fenetre": 94.58
+  },
+  {
+   "id": "S31",
+   "texte": "Maintenant, je dors même avec.",
+   "debut": 94.58,
+   "fin_fenetre": 96.14
+  },
+  {
+   "id": "S32",
+   "texte": "Je ne l'aurais jamais cru.",
+   "debut": 96.52,
+   "fin_fenetre": 98.18
+  },
+  {
+   "id": "S33",
+   "texte": "Franchement, j'ai commandé le premier juste pour voir où était l'arnaque.",
+   "debut": 98.18,
+   "fin_fenetre": 102.36
+  },
+  {
+   "id": "S34",
+   "texte": "Je n'y croyais pas du tout.",
+   "debut": 102.36,
+   "fin_fenetre": 104.38
+  },
+  {
+   "id": "S35",
+   "texte": "Et maintenant, les quatre autres sont dans le tiroir où étaient mes soutiens-gorge.",
+   "debut": 104.38,
+   "fin_fenetre": 108.6
+  },
+  {
+   "id": "S36",
+   "texte": "Avant, je comptais les heures avant de pouvoir enfin enlever mon soutien-gorge.",
+   "debut": 108.6,
+   "fin_fenetre": 112.92
+  },
+  {
+   "id": "S37",
+   "texte": "Depuis juin, c'est fini.",
+   "debut": 112.92,
+   "fin_fenetre": 114.71
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "zones_vmake": "auto",
+  "encodeur": "x264",
+  "crf": 18,
+  "sous_titres": {
+   "mode": "mots",
+   "majuscules": true,
+   "y": 758,
+   "taille": 34,
+   "graisse": 700,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    1,
+    2
+   ],
+   "trait": 3,
+   "max_mots": 4,
+   "max_car": 22,
+   "fusion_min": 0.38
+  }
+ },
+ "marque": "",
+ "produit": "top avec soutien-gorge intégré",
+ "site": "",
+ "offre": "celle de la source (aucune)",
+ "controle": {
+  "sans_voix": [],
+  "duree_min_sous_titre": 0.3
+ },
+ "notes": "Diagnostic : type 3 (sous-titres karaoké 1 ligne, majuscules blanches + mot rouge, sans fond, ~y 0.58H) -> Vmake. Pas de logo/site/prix. Demande élève : miroir horizontal des 10 premières secondes (images 0-299), sous-titres FR non inversés. Coût annoncé Vmake ~230 crédits. Miroir appliqué sur images 0-305 (coupe de plan à 306, 10,2 s) dans src.mp4 et clean_vmake.mp4 (+ vmake_zones miroir) ; originaux : source.mp4, clean_vmake_orig.mp4, vmake_zones_orig.json. Voix : clone refusé en API (crédit API), clone fait via le connecteur Fish Audio puis abandonné à la demande de l'élève ; voix publique 'voix femme FR' (bfec6ad6…), générée via le connecteur.",
+ "bilan": {
+  "duree_source_s": 114.7,
+  "vmake_s": 114.7,
+  "caracteres_elevenlabs": 6400,
+  "replicate_appels": 1,
+  "reprises": 5,
+  "problemes": [
+   "Replicate et Vmake/Fish REST : 403 avec le User-Agent Python par défaut (Python-urllib) -> scripts lancés via un lanceur qui fixe User-Agent",
+   "Clone Fish Audio refusé en API REST (API model creation limit 0/0, crédit API jamais rechargé) ; l'élève a demandé de passer par le connecteur MCP Fish Audio (forfait plus, 250 000 crédits) : clone créé puis supprimé",
+   "L'élève a finalement choisi une voix publique ('voix femme FR', bfec6ad6...) ; première voix publique jugée trop 'déprimée'",
+   "Génération des phrases via le connecteur MCP (text_to_speech s2.1-pro), alignement fabriqué avec voix.ecoute_lot/alignement",
+   "S6 'Ça tient la poitrine' entendue 'ça te sent' -> reformulée",
+   "6 trous de voix > 1 s (voix plus rapide que la source) -> phrases rallongées",
+   "Miroir demandé sur 10 s : étendu à 10,2 s (coupe de plan image 306) ; appliqué sur src.mp4 + clean_vmake.mp4 + vmake_zones avant rendu"
+  ],
+  "caracteres_texte_final": 2046
+ }
+}
