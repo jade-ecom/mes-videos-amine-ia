@@ -1,0 +1,10 @@
+OK     :
+  - format 720x1280 identique à la source
+  - durée vidéo 186.12 s / source 186.12 s = 100.0 %
+  - phrases plus longues que leur fenêtre : aucune
+ALERTE :
+  - mots affichés contre voix : 1 écart(s) notable(s) [('à', 'si tu ne sais pas quelle taille choisir pour un débardeur avec soutien gorge intégré il faut absolument que tu regardes ça a')]
+  - sous-titres de moins de 0,3 s : [('ans qui,', 0.25), ('ans,', 0.29), ('Et tu sais', 0.29), ('veux,', 0.25)]
+  - trous de voix absents de la source : S15→S16 58.0-59.0 s (source parle 0.8 s)
+À vérifier à la main (non automatisable) : fidélité de la voix à l'écoute, logo ou texte d'origine sur les micro-plans, qualité des plans remplacés.
+planche : travail/FB1137/controle_planche.jpg
