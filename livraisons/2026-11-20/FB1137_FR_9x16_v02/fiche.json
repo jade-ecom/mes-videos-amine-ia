@@ -1,0 +1,418 @@
+{
+ "ref": "FB1137",
+ "langue_source": "sv",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "1a5f532bc7f041d68d9fda8163f69066",
+  "repli_id": "1a5f532bc7f041d68d9fda8163f69066",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "S1",
+   "texte": "Si tu ne sais pas quelle taille choisir pour un débardeur avec soutien-gorge intégré, regarde ça.",
+   "debut": 0.06,
+   "fin_fenetre": 5.98
+  },
+  {
+   "id": "S2",
+   "texte": "À toutes les femmes de plus de 50 ans qui, depuis des années, achètent soutien-gorge sur soutien-gorge dans toutes les tailles, en espérant que le prochain ira enfin.",
+   "debut": 5.98,
+   "fin_fenetre": 14.36
+  },
+  {
+   "id": "S3",
+   "texte": "Voici la vérité.",
+   "debut": 14.36,
+   "fin_fenetre": 15.36
+  },
+  {
+   "id": "S4",
+   "texte": "Le problème, ce n'est pas la taille.",
+   "debut": 15.83,
+   "fin_fenetre": 17.14
+  },
+  {
+   "id": "S5",
+   "texte": "C'est la conception.",
+   "debut": 17.69,
+   "fin_fenetre": 18.54
+  },
+  {
+   "id": "S6",
+   "texte": "Bonjour, je suis Marie, la fondatrice de Nevylia.",
+   "debut": 19.06,
+   "fin_fenetre": 21.94
+  },
+  {
+   "id": "S7",
+   "texte": "Voici ce que personne ne te dit sur les tailles.",
+   "debut": 22.44,
+   "fin_fenetre": 24.8
+  },
+  {
+   "id": "S8",
+   "texte": "Elles sont faites pour une femme de 30 ans.",
+   "debut": 24.95,
+   "fin_fenetre": 27.4
+  },
+  {
+   "id": "S9",
+   "texte": "Deux fines bretelles, une bande bien serrée autour de la poitrine, et tout le maintien concentré sur ces trois points.",
+   "debut": 27.4,
+   "fin_fenetre": 33.76
+  },
+  {
+   "id": "S10",
+   "texte": "Quand on a 30 ans, ça marche peut-être parfaitement bien.",
+   "debut": 33.76,
+   "fin_fenetre": 37.14
+  },
+  {
+   "id": "S11",
+   "texte": "Mais avec les années, surtout après la ménopause, le corps change.",
+   "debut": 37.14,
+   "fin_fenetre": 41.84
+  },
+  {
+   "id": "S12",
+   "texte": "La peau devient plus fine, la poitrine plus souple, et ce qui tenait bien avant peut tout à coup se mettre à frotter et à faire mal.",
+   "debut": 41.84,
+   "fin_fenetre": 48.52
+  },
+  {
+   "id": "S13",
+   "texte": "Et tu sais ce qu'on fait alors ?",
+   "debut": 48.52,
+   "fin_fenetre": 50.08
+  },
+  {
+   "id": "S14",
+   "texte": "On va acheter un nouveau soutien-gorge.",
+   "debut": 50.08,
+   "fin_fenetre": 51.8
+  },
+  {
+   "id": "S15",
+   "texte": "On essaie une autre taille, un autre modèle ou une autre marque, et on espère que cette fois-ci, ce sera enfin la bonne.",
+   "debut": 52.07,
+   "fin_fenetre": 58.98
+  },
+  {
+   "id": "S16",
+   "texte": "Mais ça n'aide pas toujours.",
+   "debut": 59.0,
+   "fin_fenetre": 60.6
+  },
+  {
+   "id": "S17",
+   "texte": "Parce que le problème, ce n'est pas ta taille.",
+   "debut": 60.6,
+   "fin_fenetre": 62.82
+  },
+  {
+   "id": "S18",
+   "texte": "C'est la façon dont le soutien-gorge est fait.",
+   "debut": 62.82,
+   "fin_fenetre": 64.88
+  },
+  {
+   "id": "S19",
+   "texte": "Deux bretelles et une bande autour de la poitrine, ça ne marche pas pour le corps que tu as aujourd'hui, quelle que soit la taille.",
+   "debut": 65.31,
+   "fin_fenetre": 71.98
+  },
+  {
+   "id": "S20",
+   "texte": "En fait, plus tu essaies de tailles différentes, plus tu renforces cette impression que c'est ton corps qui ne va pas.",
+   "debut": 71.98,
+   "fin_fenetre": 78.16
+  },
+  {
+   "id": "S21",
+   "texte": "Mais non.",
+   "debut": 78.16,
+   "fin_fenetre": 79.24
+  },
+  {
+   "id": "S22",
+   "texte": "C'est ton soutien-gorge qui ne va pas.",
+   "debut": 79.24,
+   "fin_fenetre": 80.84
+  },
+  {
+   "id": "S23",
+   "texte": "Alors j'ai décidé de faire quelque chose.",
+   "debut": 81.23,
+   "fin_fenetre": 83.8
+  },
+  {
+   "id": "S24",
+   "texte": "J'ai créé un débardeur avec soutien-gorge intégré.",
+   "debut": 83.8,
+   "fin_fenetre": 86.72
+  },
+  {
+   "id": "S25",
+   "texte": "Pas de bande dure qui serre, pas de tailles de bonnet compliquées, et pas de tableau de tailles auquel on ne comprend presque rien.",
+   "debut": 86.72,
+   "fin_fenetre": 93.5
+  },
+  {
+   "id": "S26",
+   "texte": "Le maintien est réparti sur tout le débardeur, pour qu'il soit doux et confortable, sans appuyer à un seul endroit.",
+   "debut": 93.5,
+   "fin_fenetre": 100.45
+  },
+  {
+   "id": "S27",
+   "texte": "Le mieux : tu choisis ta taille comme pour un débardeur classique.",
+   "debut": 100.45,
+   "fin_fenetre": 104.71
+  },
+  {
+   "id": "S28",
+   "texte": "On a toutes les tailles, du S jusqu'au 3XL.",
+   "debut": 104.71,
+   "fin_fenetre": 108.71
+  },
+  {
+   "id": "S29",
+   "texte": "Pas de tailles de soutien-gorge bizarres dont il faut se souvenir.",
+   "debut": 108.71,
+   "fin_fenetre": 112.09
+  },
+  {
+   "id": "S30",
+   "texte": "Tu peux essayer toutes les tailles et armatures que tu veux, ça ne sert à rien si ton soutien-gorge n'est pas fait pour ton corps.",
+   "debut": 112.09,
+   "fin_fenetre": 119.19
+  },
+  {
+   "id": "S31",
+   "texte": "Je reçois des messages de femmes presque tous les jours.",
+   "debut": 119.19,
+   "fin_fenetre": 122.17
+  },
+  {
+   "id": "S32",
+   "texte": "Des femmes qui me disent qu'à midi, elles ont déjà des marques rouges autour de la poitrine.",
+   "debut": 122.17,
+   "fin_fenetre": 126.55
+  },
+  {
+   "id": "S33",
+   "texte": "Qui remettent leurs bretelles sans arrêt.",
+   "debut": 126.59,
+   "fin_fenetre": 129.53
+  },
+  {
+   "id": "S34",
+   "texte": "Et qui n'ont qu'une envie : enlever leur soutien-gorge en rentrant.",
+   "debut": 129.53,
+   "fin_fenetre": 133.51
+  },
+  {
+   "id": "S35",
+   "texte": "Mais après seulement 30 jours avec Nevylia, elles racontent tout autre chose.",
+   "debut": 133.51,
+   "fin_fenetre": 138.27
+  },
+  {
+   "id": "S36",
+   "texte": "Certaines me disent même que leurs filles ont commencé à leur demander si elles avaient perdu du poids.",
+   "debut": 138.27,
+   "fin_fenetre": 143.19
+  },
+  {
+   "id": "S37",
+   "texte": "Fini les marques rouges, rien qui serre, fini les armatures inconfortables.",
+   "debut": 143.19,
+   "fin_fenetre": 147.13
+  },
+  {
+   "id": "S38",
+   "texte": "Juste un maintien doux, toute la journée.",
+   "debut": 147.56,
+   "fin_fenetre": 150.19
+  },
+  {
+   "id": "S39",
+   "texte": "J'ai moi-même 67 ans, et j'ai créé Nevylia pour les femmes comme nous.",
+   "debut": 150.19,
+   "fin_fenetre": 154.89
+  },
+  {
+   "id": "S40",
+   "texte": "Des femmes qui ont pris un peu d'âge, qui sont passées par la ménopause, et qui en ont assez des soutiens-gorge qui ne tiennent plus comme il faut.",
+   "debut": 154.89,
+   "fin_fenetre": 162.99
+  },
+  {
+   "id": "S41",
+   "texte": "Aujourd'hui, plus de 10 000 clientes satisfaites portent nos débardeurs tous les jours.",
+   "debut": 162.99,
+   "fin_fenetre": 167.95
+  },
+  {
+   "id": "S42",
+   "texte": "Et en ce moment, on a en plus une très belle offre.",
+   "debut": 167.95,
+   "fin_fenetre": 171.51
+  },
+  {
+   "id": "S43",
+   "texte": "Pour deux débardeurs achetés, le troisième est offert.",
+   "debut": 171.51,
+   "fin_fenetre": 175.17
+  },
+  {
+   "id": "S44",
+   "texte": "Et tu as une garantie taille de 90 jours.",
+   "debut": 175.17,
+   "fin_fenetre": 178.05
+  },
+  {
+   "id": "S45",
+   "texte": "Donc si ce n'est pas pour toi, tu nous les renvoies, tout simplement.",
+   "debut": 178.05,
+   "fin_fenetre": 181.79
+  },
+  {
+   "id": "S46",
+   "texte": "Aucune complication.",
+   "debut": 181.79,
+   "fin_fenetre": 183.29
+  },
+  {
+   "id": "S47",
+   "texte": "J'ai mis le lien juste en dessous si tu veux jeter un œil.",
+   "debut": 183.29,
+   "fin_fenetre": 186.22
+  }
+ ],
+ "mix": {
+  "fond": "aucun"
+ },
+ "rendu": {
+  "zones_vmake": [
+   {
+    "images": [
+     144,
+     4466
+    ],
+    "rect": [
+     10,
+     560,
+     710,
+     670
+    ],
+    "adoucir": 12
+   }
+  ],
+  "encodeur": "x264",
+  "crf": 18,
+  "patches": [
+   {
+    "images": [
+     0,
+     143
+    ],
+    "rect": [
+     96,
+     549,
+     642,
+     647
+    ],
+    "remplir": [
+     252,
+     0,
+     0
+    ],
+    "lignes": [
+     {
+      "texte": "Quelle TAILLE de débardeur",
+      "x": 369,
+      "y": 575,
+      "taille": 40,
+      "graisse": 800,
+      "couleur": [
+       255,
+       255,
+       255
+      ],
+      "ancre": "mm"
+     },
+     {
+      "texte": "dois-tu commander ?",
+      "x": 369,
+      "y": 622,
+      "taille": 40,
+      "graisse": 800,
+      "couleur": [
+       255,
+       255,
+       255
+      ],
+      "ancre": "mm"
+     }
+    ]
+   }
+  ],
+  "sous_titres": {
+   "mode": "mots",
+   "y": 613,
+   "taille": 32,
+   "graisse": 700,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    1,
+    2
+   ],
+   "trait": 3,
+   "max_mots": 4,
+   "max_car": 24,
+   "fusion_min": 0.4,
+   "images": [
+    144,
+    4466
+   ]
+  }
+ },
+ "marque": "Nevylia",
+ "produit": "débardeur avec soutien-gorge intégré",
+ "site": "",
+ "offre": "celle de la source : 2 achetés = 1 offert, garantie taille 90 jours, 10 000 clientes",
+ "controle": {
+  "sans_voix": [],
+  "duree_min_sous_titre": 0.3
+ },
+ "notes": "Diagnostic : sous-titres blancs contour noir, mot par mot, sans fond, y~613 -> Vmake (zones auto non fiables -> zone manuelle). Vmake a rendu 4449/4467 images (dérive progressive) -> recalé par setpts (clean_vmake_orig.mp4). Carton rouge titre images 0-143 : gardé non inversé (overlay source), titre repeint en français. Miroir images 0-260 (coupe à 261). Marque Marie's Tanks -> Nevylia, prénom Marie gardé. Sans séparation voix/musique (Replicate bloqué), fond aucun.",
+ "bilan": {
+  "duree_source_s": 186.2,
+  "vmake_s": 186.2,
+  "caracteres_elevenlabs": 9500,
+  "replicate_appels": 3,
+  "reprises": 16,
+  "problemes": [
+   "Source = page HTML de la bibliothèque publicitaire Meta : lien video_hd_url extrait et téléchargé (mp4 direct)",
+   "Replicate : 3 prédictions bloquées ou interrompues (PA, >15 min) -> travail sans séparation (fond aucun, transcription sur le son complet)",
+   "Vmake : 4449 images au lieu de 4467, dérive progressive jusqu'à 18 images -> recalé par setpts ; zones auto non fiables -> zone manuelle bande sous-titres",
+   "Vmake a abîmé le carton rouge du titre -> carton source gardé (non inversé dans le miroir), titre repeint en français par patch",
+   "Voix plus rapide que la source : 6 phrases raccourcies puis 10 rallongées pour les trous",
+   "Correctif chevauchement des sous-titres au lancement du rendu",
+   "Élève : 'plus de marques rouges' prononcé 'plusss' -> 'Fini les marques rouges'",
+   "Élève : voix trop jeune -> voix créée sur mesure (design_voice Fish, 'femme française ~67 ans'), privée ; plus lente -> atempo 1.07 local sauf S30, S40-S43",
+   "Élève : lèvres non synchronisées (face caméra) -> lipsync proposé (veed, ~84 000 crédits Fish), pas encore validé"
+  ]
+ }
+}
