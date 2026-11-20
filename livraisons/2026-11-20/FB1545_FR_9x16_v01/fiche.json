@@ -1,0 +1,196 @@
+{
+ "ref": "FB1545",
+ "langue_source": "de",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "bfec6ad61a074485af726842f9f1baee",
+  "repli_id": "bfec6ad61a074485af726842f9f1baee",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "S1",
+   "texte": "Quand une femme de plus de 50 ans porte le débardeur Nevylia une journée sans soutien-gorge, voilà ce qui se passe.",
+   "debut": 0.1,
+   "fin_fenetre": 5.88
+  },
+  {
+   "id": "S2",
+   "texte": "Le premier jour, elle le remarque dès le matin.",
+   "debut": 6.17,
+   "fin_fenetre": 8.52
+  },
+  {
+   "id": "S3",
+   "texte": "On l'enfile, et c'est tout.",
+   "debut": 8.53,
+   "fin_fenetre": 10.16
+  },
+  {
+   "id": "S4",
+   "texte": "Pas d'agrafe dans le dos, pas de crochet, pas besoin de se contorsionner.",
+   "debut": 10.16,
+   "fin_fenetre": 13.9
+  },
+  {
+   "id": "S5",
+   "texte": "Vers midi, elle se rend compte qu'elle n'a encore pas tiré une seule fois sur ses bretelles.",
+   "debut": 13.9,
+   "fin_fenetre": 18.26
+  },
+  {
+   "id": "S6",
+   "texte": "Et le soir ? Aucune marque rouge.",
+   "debut": 18.61,
+   "fin_fenetre": 20.58
+  },
+  {
+   "id": "S7",
+   "texte": "Pas de bande qui lui a serré le dos toute la journée.",
+   "debut": 20.97,
+   "fin_fenetre": 23.82
+  },
+  {
+   "id": "S8",
+   "texte": "Au bout d'une semaine, elle n'ouvre même plus le tiroir à soutiens-gorge.",
+   "debut": 23.82,
+   "fin_fenetre": 26.88
+  },
+  {
+   "id": "S9",
+   "texte": "Elle le porte sous son pull préféré, un chemisier, un gilet, et dans le miroir : aucune trace, aucune ligne, aucun bourrelet dans le dos.",
+   "debut": 27.09,
+   "fin_fenetre": 35.18
+  },
+  {
+   "id": "S10",
+   "texte": "Pourquoi ?",
+   "debut": 35.18,
+   "fin_fenetre": 35.76
+  },
+  {
+   "id": "S11",
+   "texte": "Un soutien-gorge classique tient tout avec une bande serrée qui fait le tour du corps.",
+   "debut": 35.92,
+   "fin_fenetre": 40.2
+  },
+  {
+   "id": "S12",
+   "texte": "C'est elle qui marque la peau et fait ressortir les bourrelets.",
+   "debut": 40.21,
+   "fin_fenetre": 43.4
+  },
+  {
+   "id": "S13",
+   "texte": "Nevylia a des coussinets devant et une bande de maintien, mais rien derrière.",
+   "debut": 43.4,
+   "fin_fenetre": 47.86
+  },
+  {
+   "id": "S14",
+   "texte": "Pas de bande, pas d'agrafe, pas d'élastique, juste un tissu doux et extensible.",
+   "debut": 47.86,
+   "fin_fenetre": 52.78
+  },
+  {
+   "id": "S15",
+   "texte": "Au bout d'un mois, les vieux soutiens-gorge sont toujours dans le tiroir, sans avoir été touchés.",
+   "debut": 52.78,
+   "fin_fenetre": 57.66
+  },
+  {
+   "id": "S16",
+   "texte": "Et quand on lui demande ce qui a changé, elle répond juste : j'ai arrêté de me comprimer.",
+   "debut": 57.66,
+   "fin_fenetre": 62.28
+  },
+  {
+   "id": "S17",
+   "texte": "Nevylia existe en noir, beige et marron, en tailles de t-shirt normales.",
+   "debut": 62.28,
+   "fin_fenetre": 67.04
+  },
+  {
+   "id": "S18",
+   "texte": "En ce moment, tu économises avec le lot, et la livraison est gratuite.",
+   "debut": 67.04,
+   "fin_fenetre": 70.54
+  },
+  {
+   "id": "S19",
+   "texte": "Le lien est juste en dessous.",
+   "debut": 70.91,
+   "fin_fenetre": 71.9
+  },
+  {
+   "id": "S20",
+   "texte": "Essaie-le une journée.",
+   "debut": 72.33,
+   "fin_fenetre": 73.42
+  },
+  {
+   "id": "S21",
+   "texte": "Il fait le reste.",
+   "debut": 73.91,
+   "fin_fenetre": 75.0
+  }
+ ],
+ "mix": {
+  "fond": "aucun"
+ },
+ "rendu": {
+  "zones_vmake": "auto",
+  "encodeur": "x264",
+  "crf": 18,
+  "sous_titres": {
+   "mode": "mots",
+   "y": 700,
+   "taille": 32,
+   "graisse": 700,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    1,
+    2
+   ],
+   "trait": 3,
+   "max_mots": 6,
+   "max_car": 30,
+   "fusion_min": 0.5
+  }
+ },
+ "marque": "Nevylia",
+ "produit": "débardeur Nevylia",
+ "site": "",
+ "offre": "celle de la source : économie avec le lot + livraison gratuite, lien en dessous",
+ "controle": {
+  "sans_voix": [],
+  "duree_min_sous_titre": 0.4
+ },
+ "notes": "Diagnostic : sous-titres blancs contour noir, phrase sur 1-3 lignes, sans fond, centre ~y 700 -> Vmake. Marque source 'Brigittes Top' (voix + sous-titres) -> 'débardeur Nevylia'. Demande élève (comme FB2085) : miroir 10 premières s (coupe de plan à 290 -> images 0-289), voix 'voix femme FR' via connecteur, sans musique, 9:16 + 4:5. Coût annoncé Vmake ~150 crédits.",
+ "bilan": {
+  "duree_source_s": 75.0,
+  "vmake_s": 75.0,
+  "caracteres_elevenlabs": 2400,
+  "replicate_appels": 2,
+  "reprises": 8,
+  "problemes": [
+   "Replicate : 1re prédiction bloquée en 'starting' plus de 15 min -> annulée et relancée (134 s)",
+   "pkill -f a aussi tué mon propre shell (motif dans la ligne de commande) : à éviter",
+   "Voix générée via le connecteur Fish Audio (voix publique 'voix femme FR'), alignement par voix.ecoute_lot",
+   "Marque 'Brigittes Top' -> 'débardeur Nevylia' (brief élève) ; Whisper entend 'nevillea' (attendu)",
+   "Voix plus longue que la source au départ (+1 s en fin) -> S1, S9, S13, S17, S21 raccourcies ; puis 2 trous -> S5, S15 rallongées",
+   "Sous-titres en mode phrase trop petits sur les longues phrases -> mode mots (6 mots / 30 car.)",
+   "Correctif chevauchement de sous-titres (rendu.fabrique_cues) appliqué au lancement",
+   "Miroir 10 s -> images 0-289 (coupe de plan à 290) ; sans musique (fond source -56 dB) ; 4:5 = recadrage centré 720x900"
+  ]
+ }
+}
