@@ -1,0 +1,463 @@
+{
+ "ref": "NUVEA02",
+ "langue_source": "sv",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "87d5d31db15347b1b87324ab79e02233",
+  "repli_id": "87d5d31db15347b1b87324ab79e02233",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "L1",
+   "texte": "Si tu ne sais pas quelle taille choisir pour un débardeur à soutien-gorge intégré, alors il faut absolument que tu regardes ceci.",
+   "debut": 0.06,
+   "vitesse": 1.0,
+   "fin_fenetre": 5.93
+  },
+  {
+   "id": "L2",
+   "texte": "À toutes les femmes de plus de 50 ans qui achètent depuis des années soutien-gorge sur soutien-gorge, dans toutes les tailles, en espérant que le prochain ira enfin.",
+   "debut": 6.78,
+   "vitesse": 1.0,
+   "fin_fenetre": 14.31
+  },
+  {
+   "id": "L3",
+   "texte": "La vérité ?",
+   "debut": 14.57,
+   "vitesse": 1.0,
+   "fin_fenetre": 15.31
+  },
+  {
+   "id": "L4",
+   "texte": "La taille n'est pas le problème.",
+   "debut": 16.14,
+   "vitesse": 1.0,
+   "fin_fenetre": 17.09
+  },
+  {
+   "id": "L5",
+   "texte": "C'est la conception.",
+   "debut": 17.9,
+   "vitesse": 1.0,
+   "fin_fenetre": 18.49
+  },
+  {
+   "id": "L6",
+   "texte": "Bonjour, je m'appelle Lucie, et j'ai créé Nevylia.",
+   "debut": 19.42,
+   "vitesse": 1.0,
+   "fin_fenetre": 21.89
+  },
+  {
+   "id": "L7",
+   "texte": "Et voici ce que personne ne te dit sur les tailles de soutien-gorge.",
+   "debut": 22.62,
+   "vitesse": 1.0,
+   "fin_fenetre": 24.75
+  },
+  {
+   "id": "L8",
+   "texte": "Elles sont pensées pour le corps d'une femme de 30 ans.",
+   "debut": 26.08,
+   "vitesse": 1.0,
+   "fin_fenetre": 27.35
+  },
+  {
+   "id": "L9",
+   "texte": "Deux bretelles fines, une bande bien serrée autour de la poitrine, et tout le maintien concentré sur ces trois points.",
+   "debut": 28.99,
+   "vitesse": 1.0,
+   "fin_fenetre": 33.71
+  },
+  {
+   "id": "L10",
+   "texte": "Quand on a 30 ans, ça marche peut-être très bien, d'ailleurs.",
+   "debut": 34.41,
+   "vitesse": 1.0,
+   "fin_fenetre": 37.09
+  },
+  {
+   "id": "L11",
+   "texte": "Mais avec les années, surtout après la ménopause, le corps change.",
+   "debut": 37.66,
+   "vitesse": 1.0,
+   "fin_fenetre": 41.79
+  },
+  {
+   "id": "L12",
+   "texte": "La peau devient plus fine, la poitrine devient plus souple, et ce qui allait très bien avant peut tout à coup se mettre à frotter et à faire mal.",
+   "debut": 41.95,
+   "vitesse": 1.0,
+   "fin_fenetre": 48.47
+  },
+  {
+   "id": "L13",
+   "texte": "Et tu sais ce qu'on fait, alors ?",
+   "debut": 48.52,
+   "vitesse": 1.0,
+   "fin_fenetre": 50.03
+  },
+  {
+   "id": "L14",
+   "texte": "Eh bien, on va tout simplement racheter un soutien-gorge.",
+   "debut": 50.88,
+   "vitesse": 1.0,
+   "fin_fenetre": 51.75
+  },
+  {
+   "id": "L15",
+   "texte": "On essaie une autre taille, un autre modèle ou une autre marque, en espérant que cette fois, ce sera la bonne.",
+   "debut": 53.6,
+   "vitesse": 1.0,
+   "fin_fenetre": 58.93
+  },
+  {
+   "id": "L16",
+   "texte": "Mais ça n'aide pas toujours.",
+   "debut": 59.36,
+   "vitesse": 1.0,
+   "fin_fenetre": 60.55
+  },
+  {
+   "id": "L17",
+   "texte": "Le problème ne vient pas de ta taille.",
+   "debut": 60.96,
+   "vitesse": 1.0,
+   "fin_fenetre": 62.77
+  },
+  {
+   "id": "L18",
+   "texte": "Il vient de la façon dont le soutien-gorge est fabriqué.",
+   "debut": 63.48,
+   "vitesse": 1.0,
+   "fin_fenetre": 64.83
+  },
+  {
+   "id": "L19",
+   "texte": "Deux bretelles et une bande autour de la poitrine, ça ne convient tout simplement pas au corps que tu as aujourd'hui, quelle que soit ta taille.",
+   "debut": 66.2,
+   "vitesse": 1.0,
+   "fin_fenetre": 71.93
+  },
+  {
+   "id": "L20",
+   "texte": "En fait, plus tu essaies de tailles différentes, plus tu renforces cette impression que c'est ton corps qui ne va pas.",
+   "debut": 72.22,
+   "vitesse": 1.0,
+   "fin_fenetre": 78.11
+  },
+  {
+   "id": "L21",
+   "texte": "Mais ton corps va très bien.",
+   "debut": 78.16,
+   "vitesse": 1.0,
+   "fin_fenetre": 79.19
+  },
+  {
+   "id": "L22",
+   "texte": "Le souci, c'est ton soutien-gorge.",
+   "debut": 79.92,
+   "vitesse": 1.0,
+   "fin_fenetre": 80.79
+  },
+  {
+   "id": "L23",
+   "texte": "Alors j'ai décidé d'agir.",
+   "debut": 82.1,
+   "vitesse": 1.0,
+   "fin_fenetre": 83.75
+  },
+  {
+   "id": "L24",
+   "texte": "J'ai créé un débardeur avec un soutien-gorge intégré.",
+   "debut": 83.8,
+   "vitesse": 1.0,
+   "fin_fenetre": 86.67
+  },
+  {
+   "id": "L25",
+   "texte": "Pas de bande dure qui serre, pas de tailles de bonnet compliquées, et pas de guide des tailles auquel on ne comprend rien.",
+   "debut": 86.81,
+   "vitesse": 1.0,
+   "fin_fenetre": 93.45
+  },
+  {
+   "id": "L26",
+   "texte": "À la place, le maintien est réparti sur tout le débardeur, pour qu'il reste doux et confortable, sans jamais appuyer toujours au même endroit.",
+   "debut": 93.5,
+   "vitesse": 1.0,
+   "fin_fenetre": 100.4
+  },
+  {
+   "id": "L27",
+   "texte": "Le mieux, c'est que tu choisis ta taille exactement comme pour un débardeur normal.",
+   "debut": 100.77,
+   "vitesse": 1.0,
+   "fin_fenetre": 104.66
+  },
+  {
+   "id": "L28",
+   "texte": "On le propose en S, M, L, XL, et jusqu'au 6XL.",
+   "debut": 105.06,
+   "vitesse": 1.0,
+   "fin_fenetre": 108.66
+  },
+  {
+   "id": "L29",
+   "texte": "Pas de tailles de soutien-gorge bizarres à retenir.",
+   "debut": 109.46,
+   "vitesse": 1.0,
+   "fin_fenetre": 112.04
+  },
+  {
+   "id": "L30",
+   "texte": "Car tu as beau essayer toutes les tailles et toutes les armatures du monde, ça ne sert à rien si ton soutien-gorge n'est pas fait pour ton corps.",
+   "debut": 112.29,
+   "vitesse": 1.0,
+   "fin_fenetre": 119.14
+  },
+  {
+   "id": "L31",
+   "texte": "Je reçois des messages de femmes presque tous les jours.",
+   "debut": 119.84,
+   "vitesse": 1.0,
+   "fin_fenetre": 122.12
+  },
+  {
+   "id": "L32",
+   "texte": "Des femmes qui me racontent que, dès l'heure du déjeuner, elles ont déjà des marques rouges tout autour de la poitrine.",
+   "debut": 122.57,
+   "vitesse": 1.0,
+   "fin_fenetre": 126.5
+  },
+  {
+   "id": "L33",
+   "texte": "Qui doivent remonter leurs bretelles sans arrêt.",
+   "debut": 128.22,
+   "vitesse": 1.0,
+   "fin_fenetre": 129.48
+  },
+  {
+   "id": "L34",
+   "texte": "Et qui n'ont qu'une envie : enlever leur soutien-gorge dès qu'elles rentrent.",
+   "debut": 130.58,
+   "vitesse": 1.0,
+   "fin_fenetre": 133.46
+  },
+  {
+   "id": "L35",
+   "texte": "Mais après seulement 30 jours avec Nevylia, elles racontent tout autre chose.",
+   "debut": 134.37,
+   "vitesse": 1.0,
+   "fin_fenetre": 138.22
+  },
+  {
+   "id": "L36",
+   "texte": "Certaines me disent même que leurs filles ont commencé à leur demander si elles avaient perdu du poids.",
+   "debut": 138.27,
+   "vitesse": 1.0,
+   "fin_fenetre": 143.14
+  },
+  {
+   "id": "L37",
+   "texte": "Plus de marques rouges, rien qui serre, et plus d'armatures inconfortables.",
+   "debut": 143.19,
+   "vitesse": 1.0,
+   "fin_fenetre": 147.08
+  },
+  {
+   "id": "L38",
+   "texte": "Juste un maintien doux et confortable, qui tient toute la journée.",
+   "debut": 147.27,
+   "vitesse": 1.0,
+   "fin_fenetre": 150.14
+  },
+  {
+   "id": "L39",
+   "texte": "J'ai moi-même 67 ans, et j'ai créé Nevylia pour les femmes comme nous.",
+   "debut": 150.83,
+   "vitesse": 1.0,
+   "fin_fenetre": 154.84
+  },
+  {
+   "id": "L40",
+   "texte": "Des femmes qui ont pris quelques années, qui sont passées par la ménopause, et qui en ont vraiment assez des soutiens-gorge qui ne tiennent plus comme il faut.",
+   "debut": 155.12,
+   "vitesse": 1.0,
+   "fin_fenetre": 162.94
+  },
+  {
+   "id": "L41",
+   "texte": "Aujourd'hui, nous avons plus de 10 000 clientes satisfaites qui portent nos débardeurs tous les jours.",
+   "debut": 162.99,
+   "vitesse": 1.0,
+   "fin_fenetre": 167.9
+  },
+  {
+   "id": "L42",
+   "texte": "Et en ce moment, on a en plus une très belle offre.",
+   "debut": 169.06,
+   "vitesse": 1.0,
+   "fin_fenetre": 171.46
+  },
+  {
+   "id": "L43",
+   "texte": "Pour deux débardeurs achetés, le troisième est offert.",
+   "debut": 171.68,
+   "vitesse": 1.0,
+   "fin_fenetre": 175.12
+  },
+  {
+   "id": "L44",
+   "texte": "Et tu as 90 jours de garantie sur la taille.",
+   "debut": 175.17,
+   "vitesse": 1.0,
+   "fin_fenetre": 178.0
+  },
+  {
+   "id": "L45",
+   "texte": "Donc si finalement il ne te convient pas, tu nous les renvoies, tout simplement.",
+   "debut": 178.05,
+   "vitesse": 1.0,
+   "fin_fenetre": 181.74
+  },
+  {
+   "id": "L46",
+   "texte": "Aucune complication.",
+   "debut": 181.79,
+   "vitesse": 1.0,
+   "fin_fenetre": 183.24
+  },
+  {
+   "id": "L47",
+   "texte": "Le lien est juste en dessous, si tu veux voir.",
+   "debut": 183.36,
+   "vitesse": 1.0,
+   "fin_fenetre": 186.1
+  }
+ ],
+ "mix": {
+  "fond": "aucun"
+ },
+ "rendu": {
+  "crf": 17,
+  "encodeur": "x264",
+  "zones_vmake": [
+   {
+    "images": [
+     144,
+     4466
+    ],
+    "rect": [
+     24,
+     566,
+     696,
+     686
+    ],
+    "adoucir": 8
+   }
+  ],
+  "patches": [
+   {
+    "images": [
+     0,
+     143
+    ],
+    "rect": [
+     100,
+     552,
+     632,
+     644
+    ],
+    "remplir": [
+     248,
+     2,
+     3
+    ],
+    "lignes": [
+     {
+      "texte": "Quelle TAILLE de Nevylia",
+      "x": 366,
+      "y": 576,
+      "taille": 34,
+      "graisse": 700,
+      "couleur": [
+       255,
+       255,
+       255
+      ],
+      "ancre": "mm"
+     },
+     {
+      "texte": "dois-tu commander ?",
+      "x": 366,
+      "y": 620,
+      "taille": 34,
+      "graisse": 700,
+      "couleur": [
+       255,
+       255,
+       255
+      ],
+      "ancre": "mm"
+     }
+    ]
+   }
+  ],
+  "sous_titres": {
+   "mode": "mots",
+   "y": 612,
+   "taille": 32,
+   "graisse": 600,
+   "couleur": [
+    255,
+    255,
+    255
+   ],
+   "couleur_ombre": [
+    0,
+    0,
+    0
+   ],
+   "decalage": [
+    1,
+    2
+   ],
+   "flou": 3,
+   "trait": 1,
+   "max_mots": 4,
+   "max_car": 24,
+   "images": [
+    144,
+    4466
+   ]
+  }
+ },
+ "marque": "Nevylia",
+ "produit": "débardeur à soutien-gorge intégré Nevylia (Linea)",
+ "site": "https://nevylia.com/products/linea?variant=59971713991004",
+ "offre": "celle de la source : 2 achetés = 3e offert, 90 jours de garantie taille ; tailles S à 6XL (site)",
+ "controle": {
+  "sans_voix": []
+ },
+ "bilan": {
+  "duree_source_s": 186.2,
+  "vmake_s": 186.2,
+  "caracteres_elevenlabs": 6100,
+  "replicate_appels": 0,
+  "reprises": 8,
+  "problemes": [
+   "Vmake : crédit insuffisant au 1er essai (60002), l'élève a rechargé",
+   "Vmake a rendu 4449 images au lieu de 4467 avec un décalage progressif (jusqu'à 18 images) : recalé image par image sur la source avant le rendu",
+   "Zones Vmake auto non fiables (zones > 50 %) : zone manuelle sur la bande des sous-titres [24,566,696,686], images 144-4466",
+   "Cadre rouge des tailles (images 0-143) : gardé à l'endroit pendant le miroir des 10 premières secondes ; titre refait en patch rouge ('Quelle TAILLE de Nevylia dois-tu commander ?')",
+   "Pas de clone (crédit API Fish Audio jamais rechargé) : voix publique 87d5d31db15347b1b87324ab79e02233 (femme, chaleureuse, ~200 Hz contre 184 Hz à la source)",
+   "Pas de séparation voix/musique (Replicate 403 code 1010) ; pas de musique, à la demande de l'élève",
+   "Whisper lit « ce n'est » comme « c'est » : phrases reformulées sans négation en « ce n' »",
+   "Tailles adaptées au site (S à 6XL au lieu de S à 3XL) ; offre de la source gardée (2 achetés = 3e offert, 90 jours de garantie), à vérifier par l'élève sur son site",
+   "Restent : 1 blanc de voix de 1,8 s (161-163 s), retard max de 0,8 s (L2)"
+  ]
+ }
+}

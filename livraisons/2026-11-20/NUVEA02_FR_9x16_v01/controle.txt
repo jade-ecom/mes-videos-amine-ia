@@ -1,0 +1,11 @@
+OK     :
+  - format 720x1280 identique à la source
+  - durée vidéo 186.12 s / source 186.12 s = 100.0 %
+  - mots affichés contre voix : 0 écart(s) notable(s)
+  -   (7 petit(s) écart(s) de graphie ou de transcription)
+  - sous-titres de moins de 0,3 s : aucun
+  - phrases plus longues que leur fenêtre : aucune
+ALERTE :
+  - trous de voix absents de la source : L40→L41 161.2-163.0 s (source parle 1.8 s)
+À vérifier à la main (non automatisable) : fidélité de la voix à l'écoute, logo ou texte d'origine sur les micro-plans, qualité des plans remplacés.
+planche : travail/NUVEA02/controle_planche.jpg
